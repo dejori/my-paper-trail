@@ -1,0 +1,24 @@
+name: Tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - name: Run tests
+        env:
+          ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+          ZOTERO_USER_ID: ${{ secrets.ZOTERO_USER_ID }}
+          MENDELEY_CLIENT_ID: ${{ secrets.MENDELEY_CLIENT_ID }}
+          MENDELEY_CLIENT_SECRET: ${{ secrets.MENDELEY_CLIENT_SECRET }}
+          MENDELEY_REFRESH_TOKEN: ${{ secrets.MENDELEY_REFRESH_TOKEN }}
+        run: pytest tests/ -v
