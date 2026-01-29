@@ -17,29 +17,34 @@
   <line x1="200" y1="200" x2="136.36038969321072" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="110.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="136.36038969321072" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
-  <polygon points="200.0,110.0 257.27564927611036,142.72435072388964 272.0,200.0 247.72970773009195,247.72970773009195 200.0,258.5 161.81623381592644,238.1837661840736 155.0,200.0 171.36217536194482,171.36217536194482" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
+  <polygon points="200.0,110.0 223.99844846683504,176.00155153316496 226.793893129771,200.0 216.61431047703965,216.61431047703965 200.0,223.49618320610688 183.77432836452854,216.22567163547146 177.6030534351145,200.0 184.55160604766488,184.5516060476649" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
   <circle cx="200.0" cy="110.0" r="4" fill="#40c463"/>
-  <circle cx="257.27564927611036" cy="142.72435072388964" r="4" fill="#40c463"/>
-  <circle cx="272.0" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="247.72970773009195" cy="247.72970773009195" r="4" fill="#40c463"/>
-  <circle cx="200.0" cy="258.5" r="4" fill="#40c463"/>
-  <circle cx="161.81623381592644" cy="238.1837661840736" r="4" fill="#40c463"/>
-  <circle cx="155.0" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="171.36217536194482" cy="171.36217536194482" r="4" fill="#40c463"/>
-  <text x="200.0" y="60.0" text-anchor="middle" class="label">Nature</text>
-  <text x="200.0" y="75.0" text-anchor="middle" class="value">(16)</text>
-  <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">arXiv</text>
-  <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="value">(14)</text>
-  <text x="325.0" y="200.0" text-anchor="start" class="label">Science</text>
-  <text x="325.0" y="215.0" text-anchor="start" class="value">(12)</text>
-  <text x="288.3883476483185" y="288.3883476483184" text-anchor="start" class="label">PNAS</text>
-  <text x="288.3883476483185" y="303.3883476483184" text-anchor="start" class="value">(11)</text>
-  <text x="200.0" y="330.0" text-anchor="middle" class="label">Cell</text>
-  <text x="200.0" y="345.0" text-anchor="middle" class="value">(9)</text>
-  <text x="111.61165235168157" y="288.3883476483185" text-anchor="end" class="label">IEEE</text>
-  <text x="111.61165235168157" y="303.3883476483185" text-anchor="end" class="value">(8)</text>
-  <text x="75.0" y="200.00000000000003" text-anchor="end" class="label">ACM</text>
-  <text x="75.0" y="215.00000000000003" text-anchor="end" class="value">(6)</text>
-  <text x="111.61165235168154" y="111.61165235168157" text-anchor="end" class="label">PLOS ONE</text>
-  <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="value">(5)</text>
+  <circle cx="223.99844846683504" cy="176.00155153316496" r="4" fill="#40c463"/>
+  <circle cx="226.793893129771" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="216.61431047703965" cy="216.61431047703965" r="4" fill="#40c463"/>
+  <circle cx="200.0" cy="223.49618320610688" r="4" fill="#40c463"/>
+  <circle cx="183.77432836452854" cy="216.22567163547146" r="4" fill="#40c463"/>
+  <circle cx="177.6030534351145" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="184.55160604766488" cy="184.5516060476649" r="4" fill="#40c463"/>
+  <text x="200.0" y="60.0" text-anchor="middle" class="label">arXiv</text>
+  <text x="200.0" y="75.0" text-anchor="middle" class="value">(131)</text>
+  <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">Journal of</text>
+  <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="label">the...</text>
+  <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(29)</text>
+  <text x="325.0" y="200.0" text-anchor="start" class="label">Journal of</text>
+  <text x="325.0" y="215.0" text-anchor="start" class="label">Biomedica...</text>
+  <text x="325.0" y="230.0" text-anchor="start" class="value">(16)</text>
+  <text x="288.3883476483185" y="288.3883476483184" text-anchor="start" class="label">AMIA ...</text>
+  <text x="288.3883476483185" y="303.3883476483184" text-anchor="start" class="label">Annual...</text>
+  <text x="288.3883476483185" y="318.3883476483184" text-anchor="start" class="value">(10)</text>
+  <text x="200.0" y="330.0" text-anchor="middle" class="label">Medical Care</text>
+  <text x="200.0" y="345.0" text-anchor="middle" class="value">(10)</text>
+  <text x="111.61165235168157" y="288.3883476483185" text-anchor="end" class="label">BMC Medical</text>
+  <text x="111.61165235168157" y="303.3883476483185" text-anchor="end" class="label">Informatic...</text>
+  <text x="111.61165235168157" y="318.3883476483185" text-anchor="end" class="value">(9)</text>
+  <text x="75.0" y="200.00000000000003" text-anchor="end" class="label">BMC</text>
+  <text x="75.0" y="215.00000000000003" text-anchor="end" class="label">Bioinformatics</text>
+  <text x="75.0" y="230.00000000000003" text-anchor="end" class="value">(8)</text>
+  <text x="111.61165235168154" y="111.61165235168157" text-anchor="end" class="label">BMJ</text>
+  <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="value">(7)</text>
 </svg>

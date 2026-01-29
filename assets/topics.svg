@@ -17,34 +17,36 @@
   <line x1="200" y1="200" x2="136.36038969321072" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="110.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="136.36038969321072" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
-  <polygon points="200.0,110.0 250.91168824543144,149.08831175456856 263.0,200.0 238.1837661840736,238.18376618407356 200.0,245.0 170.301515190165,229.698484809835 161.0,200.0 174.54415587728428,174.54415587728428" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
+  <polygon points="200.0,110.0 249.75460442167162,150.24539557832838 270.3636363636364,200.0 249.75460442167162,249.75460442167162 200.0,240.9090909090909 171.07290440600488,228.92709559399512 159.0909090909091,200.0 171.07290440600485,171.07290440600488" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
   <circle cx="200.0" cy="110.0" r="4" fill="#40c463"/>
-  <circle cx="250.91168824543144" cy="149.08831175456856" r="4" fill="#40c463"/>
-  <circle cx="263.0" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="238.1837661840736" cy="238.18376618407356" r="4" fill="#40c463"/>
-  <circle cx="200.0" cy="245.0" r="4" fill="#40c463"/>
-  <circle cx="170.301515190165" cy="229.698484809835" r="4" fill="#40c463"/>
-  <circle cx="161.0" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="174.54415587728428" cy="174.54415587728428" r="4" fill="#40c463"/>
-  <text x="200.0" y="60.0" text-anchor="middle" class="label">Machine</text>
+  <circle cx="249.75460442167162" cy="150.24539557832838" r="4" fill="#40c463"/>
+  <circle cx="270.3636363636364" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="249.75460442167162" cy="249.75460442167162" r="4" fill="#40c463"/>
+  <circle cx="200.0" cy="240.9090909090909" r="4" fill="#40c463"/>
+  <circle cx="171.07290440600488" cy="228.92709559399512" r="4" fill="#40c463"/>
+  <circle cx="159.0909090909091" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="171.07290440600485" cy="171.07290440600488" r="4" fill="#40c463"/>
+  <text x="200.0" y="60.0" text-anchor="middle" class="label">Deep</text>
   <text x="200.0" y="75.0" text-anchor="middle" class="label">Learning</text>
-  <text x="200.0" y="90.0" text-anchor="middle" class="value">(24)</text>
-  <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">Deep</text>
-  <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="label">Learning</text>
-  <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(18)</text>
-  <text x="325.0" y="200.0" text-anchor="start" class="label">Natural</text>
-  <text x="325.0" y="215.0" text-anchor="start" class="label">Language...</text>
-  <text x="325.0" y="230.0" text-anchor="start" class="value">(15)</text>
-  <text x="288.3883476483185" y="288.3883476483184" text-anchor="start" class="label">Computer</text>
-  <text x="288.3883476483185" y="303.3883476483184" text-anchor="start" class="label">Vision</text>
-  <text x="288.3883476483185" y="318.3883476483184" text-anchor="start" class="value">(12)</text>
-  <text x="200.0" y="330.0" text-anchor="middle" class="label">Data Science</text>
-  <text x="200.0" y="345.0" text-anchor="middle" class="value">(9)</text>
-  <text x="111.61165235168157" y="288.3883476483185" text-anchor="end" class="label">Statistics</text>
-  <text x="111.61165235168157" y="303.3883476483185" text-anchor="end" class="value">(8)</text>
-  <text x="75.0" y="200.00000000000003" text-anchor="end" class="label">Neural</text>
-  <text x="75.0" y="215.00000000000003" text-anchor="end" class="label">Networks</text>
+  <text x="200.0" y="90.0" text-anchor="middle" class="value">(22)</text>
+  <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">Electronic</text>
+  <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="label">Health...</text>
+  <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(16)</text>
+  <text x="325.0" y="200.0" text-anchor="start" class="label">Machine</text>
+  <text x="325.0" y="215.0" text-anchor="start" class="label">Learning</text>
+  <text x="325.0" y="230.0" text-anchor="start" class="value">(16)</text>
+  <text x="288.3883476483185" y="288.3883476483184" text-anchor="start" class="label">Natural</text>
+  <text x="288.3883476483185" y="303.3883476483184" text-anchor="start" class="label">Language...</text>
+  <text x="288.3883476483185" y="318.3883476483184" text-anchor="start" class="value">(16)</text>
+  <text x="200.0" y="330.0" text-anchor="middle" class="label">Artificial</text>
+  <text x="200.0" y="345.0" text-anchor="middle" class="label">Intelligence</text>
+  <text x="200.0" y="360.0" text-anchor="middle" class="value">(7)</text>
+  <text x="111.61165235168157" y="288.3883476483185" text-anchor="end" class="label">Bioinformatics</text>
+  <text x="111.61165235168157" y="303.3883476483185" text-anchor="end" class="value">(7)</text>
+  <text x="75.0" y="200.00000000000003" text-anchor="end" class="label">Clinical</text>
+  <text x="75.0" y="215.00000000000003" text-anchor="end" class="label">Decision...</text>
   <text x="75.0" y="230.00000000000003" text-anchor="end" class="value">(7)</text>
-  <text x="111.61165235168154" y="111.61165235168157" text-anchor="end" class="label">Optimization</text>
-  <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="value">(6)</text>
+  <text x="111.61165235168154" y="111.61165235168157" text-anchor="end" class="label">Neural</text>
+  <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="label">Networks</text>
+  <text x="111.61165235168154" y="141.61165235168158" text-anchor="end" class="value">(7)</text>
 </svg>

@@ -1,288 +1,486 @@
 <svg width="900" height="698" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <rect width="900" height="698" fill="white"/>
   <style>
-    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 9px; fill: #57606a; }
-    .legend { font-size: 9px; }
-    .label { font-size: 10px; }
-    .value { font-size: 9px; fill: #8b949e; }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
     .footer { font-size: 11px; fill: #8b949e; }
     .footer-link { font-size: 11px; fill: #0969da; }
   </style>
-
-  <!-- Activity Graph -->
   <g transform="translate(40, 20)">
-    <text x="52" y="26">Jan</text>
-    <text x="122" y="26">Mar</text>
-    <text x="192" y="26">Apr</text>
-    <text x="248" y="26">May</text>
-    <text x="304" y="26">Jun</text>
-    <text x="374" y="26">Jul</text>
-    <text x="430" y="26">Aug</text>
-    <text x="500" y="26">Sep</text>
-    <text x="556" y="26">Oct</text>
-    <text x="612" y="26">Nov</text>
-    <text x="682" y="26">Dec</text>
-    <text x="738" y="26">Jan</text>
-    <text x="16" y="56.5">Mon</text>
-    <text x="16" y="84.5">Wed</text>
-    <text x="16" y="112.5">Fri</text>
-    <!-- Sample activity squares -->
-    <rect x="52" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="52" y="48" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="52" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="52" y="76" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="52" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="52" y="104" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="52" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="66" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="66" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="66" y="62" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-    <rect x="66" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="66" y="90" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="66" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="66" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="80" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="80" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="80" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="80" y="76" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="80" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="80" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="80" y="118" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
-    <!-- Continue with more representative squares across the year -->
-    <rect x="94" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="94" y="48" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="94" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="94" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="94" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="94" y="104" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="94" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="108" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="108" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="108" y="62" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="108" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="108" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="108" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="108" y="118" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-    <!-- More representative weeks -->
-    <rect x="122" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="122" y="48" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="122" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="122" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="122" y="90" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="122" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="122" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <!-- Fill rest with pattern -->
-    <rect x="136" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="136" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="136" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="136" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="136" y="90" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="136" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="136" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="150" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="150" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="150" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="150" y="76" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="150" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="150" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="150" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="164" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="164" y="48" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-    <rect x="164" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="164" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="164" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="164" y="104" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="164" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <!-- Continue sparse pattern through months -->
-    <rect x="178" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="178" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="178" y="62" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="178" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="178" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="178" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="178" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="192" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="192" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="192" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="192" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="192" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="192" y="104" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
-    <rect x="192" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <!-- More weeks abbreviated for space -->
-    <rect x="206" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="206" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="206" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="206" y="76" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="206" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="206" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="206" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="220" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="220" y="48" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="220" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="220" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="220" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="220" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="220" y="118" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <!-- May through December abbreviated -->
-    <rect x="234" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="234" y="90" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-    <rect x="248" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="248" y="118" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="262" y="62" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="276" y="76" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
-    <rect x="290" y="48" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="290" y="104" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="304" y="90" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="318" y="34" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-    <rect x="318" y="118" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="332" y="62" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="346" y="48" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="360" y="76" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
-    <rect x="360" y="104" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="374" y="90" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="388" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="388" y="104" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-    <rect x="402" y="62" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="416" y="48" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="416" y="118" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="430" y="76" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="444" y="34" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
-    <rect x="444" y="90" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="458" y="48" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="458" y="118" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-    <rect x="472" y="90" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="486" y="62" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="500" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="500" y="104" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
-    <rect x="514" y="76" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-    <rect x="514" y="118" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="528" y="48" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="542" y="62" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="556" y="104" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="570" y="34" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-    <rect x="570" y="76" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="584" y="90" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
-    <rect x="584" y="118" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="598" y="48" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="612" y="62" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="612" y="104" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-    <rect x="626" y="76" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="640" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="640" y="118" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
-    <rect x="654" y="90" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="668" y="48" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="682" y="62" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-    <rect x="682" y="90" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="696" y="76" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="710" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="710" y="90" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
-    <rect x="724" y="76" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="724" y="104" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-    <rect x="738" y="34" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="738" y="62" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="752" y="76" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
-    <rect x="752" y="104" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="766" y="48" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <!-- Legend -->
-    <text x="693" y="150" text-anchor="end" class="legend">Less</text>
-    <rect x="698" y="140" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    <rect x="713" y="140" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
-    <rect x="728" y="140" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-    <rect x="743" y="140" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-    <rect x="758" y="140" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
-    <text x="774" y="150" class="legend">More</text>
+<text x="52" y="26">Feb</text>
+  <text x="108" y="26">Mar</text>
+  <text x="178" y="26">Apr</text>
+  <text x="234" y="26">May</text>
+  <text x="290" y="26">Jun</text>
+  <text x="360" y="26">Jul</text>
+  <text x="416" y="26">Aug</text>
+  <text x="486" y="26">Sep</text>
+  <text x="542" y="26">Oct</text>
+  <text x="598" y="26">Nov</text>
+  <text x="668" y="26">Dec</text>
+  <text x="724" y="26">Jan</text>
+  <text x="780" y="26">Feb</text>
+  <text x="16" y="56.5">Mon</text>
+  <text x="16" y="84.5">Wed</text>
+  <text x="16" y="112.5">Fri</text>
+  <rect x="52" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-02: 0 papers</title></rect>
+  <rect x="52" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-03: 0 papers</title></rect>
+  <rect x="52" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-04: 0 papers</title></rect>
+  <rect x="52" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-05: 0 papers</title></rect>
+  <rect x="52" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-06: 0 papers</title></rect>
+  <rect x="52" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-07: 0 papers</title></rect>
+  <rect x="52" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-08: 0 papers</title></rect>
+  <rect x="66" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-09: 0 papers</title></rect>
+  <rect x="66" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-10: 0 papers</title></rect>
+  <rect x="66" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-11: 0 papers</title></rect>
+  <rect x="66" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-12: 0 papers</title></rect>
+  <rect x="66" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-13: 0 papers</title></rect>
+  <rect x="66" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-14: 0 papers</title></rect>
+  <rect x="66" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-15: 0 papers</title></rect>
+  <rect x="80" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-16: 0 papers</title></rect>
+  <rect x="80" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-17: 0 papers</title></rect>
+  <rect x="80" y="62" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-02-18: 6 papers</title></rect>
+  <rect x="80" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-19: 0 papers</title></rect>
+  <rect x="80" y="90" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-02-20: 1 papers</title></rect>
+  <rect x="80" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-21: 0 papers</title></rect>
+  <rect x="80" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-22: 0 papers</title></rect>
+  <rect x="94" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-23: 0 papers</title></rect>
+  <rect x="94" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-24: 0 papers</title></rect>
+  <rect x="94" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-02-25: 0 papers</title></rect>
+  <rect x="94" y="76" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-02-26: 2 papers</title></rect>
+  <rect x="94" y="90" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-02-27: 1 papers</title></rect>
+  <rect x="94" y="104" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-02-28: 4 papers</title></rect>
+  <rect x="94" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-01: 0 papers</title></rect>
+  <rect x="108" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-02: 0 papers</title></rect>
+  <rect x="108" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-03: 0 papers</title></rect>
+  <rect x="108" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-04: 0 papers</title></rect>
+  <rect x="108" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-05: 0 papers</title></rect>
+  <rect x="108" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-06: 0 papers</title></rect>
+  <rect x="108" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-07: 0 papers</title></rect>
+  <rect x="108" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-08: 0 papers</title></rect>
+  <rect x="122" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-03-09: 1 papers</title></rect>
+  <rect x="122" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-10: 0 papers</title></rect>
+  <rect x="122" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-11: 0 papers</title></rect>
+  <rect x="122" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-12: 0 papers</title></rect>
+  <rect x="122" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-13: 0 papers</title></rect>
+  <rect x="122" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-14: 0 papers</title></rect>
+  <rect x="122" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-15: 0 papers</title></rect>
+  <rect x="136" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-16: 0 papers</title></rect>
+  <rect x="136" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-17: 0 papers</title></rect>
+  <rect x="136" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-18: 0 papers</title></rect>
+  <rect x="136" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-19: 0 papers</title></rect>
+  <rect x="136" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-20: 0 papers</title></rect>
+  <rect x="136" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-21: 0 papers</title></rect>
+  <rect x="136" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-22: 0 papers</title></rect>
+  <rect x="150" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-23: 0 papers</title></rect>
+  <rect x="150" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-24: 0 papers</title></rect>
+  <rect x="150" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-25: 0 papers</title></rect>
+  <rect x="150" y="76" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-03-26: 1 papers</title></rect>
+  <rect x="150" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-27: 0 papers</title></rect>
+  <rect x="150" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-28: 0 papers</title></rect>
+  <rect x="150" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-29: 0 papers</title></rect>
+  <rect x="164" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-30: 0 papers</title></rect>
+  <rect x="164" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-03-31: 0 papers</title></rect>
+  <rect x="164" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-01: 0 papers</title></rect>
+  <rect x="164" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-02: 0 papers</title></rect>
+  <rect x="164" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-03: 0 papers</title></rect>
+  <rect x="164" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-04: 0 papers</title></rect>
+  <rect x="164" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-05: 0 papers</title></rect>
+  <rect x="178" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-06: 0 papers</title></rect>
+  <rect x="178" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-07: 0 papers</title></rect>
+  <rect x="178" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-08: 0 papers</title></rect>
+  <rect x="178" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-09: 0 papers</title></rect>
+  <rect x="178" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-10: 0 papers</title></rect>
+  <rect x="178" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-11: 0 papers</title></rect>
+  <rect x="178" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-12: 0 papers</title></rect>
+  <rect x="192" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-13: 0 papers</title></rect>
+  <rect x="192" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-14: 0 papers</title></rect>
+  <rect x="192" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-15: 0 papers</title></rect>
+  <rect x="192" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-16: 0 papers</title></rect>
+  <rect x="192" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-17: 0 papers</title></rect>
+  <rect x="192" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-18: 0 papers</title></rect>
+  <rect x="192" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-19: 0 papers</title></rect>
+  <rect x="206" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-20: 0 papers</title></rect>
+  <rect x="206" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-21: 0 papers</title></rect>
+  <rect x="206" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-22: 0 papers</title></rect>
+  <rect x="206" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-23: 0 papers</title></rect>
+  <rect x="206" y="90" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-04-24: 1 papers</title></rect>
+  <rect x="206" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-25: 0 papers</title></rect>
+  <rect x="206" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-26: 0 papers</title></rect>
+  <rect x="220" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-27: 0 papers</title></rect>
+  <rect x="220" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-28: 0 papers</title></rect>
+  <rect x="220" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-29: 0 papers</title></rect>
+  <rect x="220" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-04-30: 0 papers</title></rect>
+  <rect x="220" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-01: 0 papers</title></rect>
+  <rect x="220" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-02: 0 papers</title></rect>
+  <rect x="220" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-03: 0 papers</title></rect>
+  <rect x="234" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-04: 0 papers</title></rect>
+  <rect x="234" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-05: 0 papers</title></rect>
+  <rect x="234" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-06: 0 papers</title></rect>
+  <rect x="234" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-07: 0 papers</title></rect>
+  <rect x="234" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-08: 0 papers</title></rect>
+  <rect x="234" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-09: 0 papers</title></rect>
+  <rect x="234" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-10: 0 papers</title></rect>
+  <rect x="248" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-11: 0 papers</title></rect>
+  <rect x="248" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-12: 0 papers</title></rect>
+  <rect x="248" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-13: 0 papers</title></rect>
+  <rect x="248" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-14: 0 papers</title></rect>
+  <rect x="248" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-15: 0 papers</title></rect>
+  <rect x="248" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-16: 0 papers</title></rect>
+  <rect x="248" y="118" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-05-17: 1 papers</title></rect>
+  <rect x="262" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-18: 0 papers</title></rect>
+  <rect x="262" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-19: 0 papers</title></rect>
+  <rect x="262" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-20: 0 papers</title></rect>
+  <rect x="262" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-21: 0 papers</title></rect>
+  <rect x="262" y="90" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-05-22: 1 papers</title></rect>
+  <rect x="262" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-23: 0 papers</title></rect>
+  <rect x="262" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-24: 0 papers</title></rect>
+  <rect x="276" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-25: 0 papers</title></rect>
+  <rect x="276" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-26: 0 papers</title></rect>
+  <rect x="276" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-27: 0 papers</title></rect>
+  <rect x="276" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-28: 0 papers</title></rect>
+  <rect x="276" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-29: 0 papers</title></rect>
+  <rect x="276" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-30: 0 papers</title></rect>
+  <rect x="276" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-05-31: 0 papers</title></rect>
+  <rect x="290" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-01: 0 papers</title></rect>
+  <rect x="290" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-02: 0 papers</title></rect>
+  <rect x="290" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-03: 0 papers</title></rect>
+  <rect x="290" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-04: 0 papers</title></rect>
+  <rect x="290" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-05: 0 papers</title></rect>
+  <rect x="290" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-06: 0 papers</title></rect>
+  <rect x="290" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-07: 0 papers</title></rect>
+  <rect x="304" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-08: 0 papers</title></rect>
+  <rect x="304" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-09: 0 papers</title></rect>
+  <rect x="304" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-10: 0 papers</title></rect>
+  <rect x="304" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-11: 0 papers</title></rect>
+  <rect x="304" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-12: 0 papers</title></rect>
+  <rect x="304" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-13: 0 papers</title></rect>
+  <rect x="304" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-14: 0 papers</title></rect>
+  <rect x="318" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-15: 0 papers</title></rect>
+  <rect x="318" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-16: 0 papers</title></rect>
+  <rect x="318" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-17: 0 papers</title></rect>
+  <rect x="318" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-18: 0 papers</title></rect>
+  <rect x="318" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-19: 0 papers</title></rect>
+  <rect x="318" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-20: 0 papers</title></rect>
+  <rect x="318" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-21: 0 papers</title></rect>
+  <rect x="332" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-22: 0 papers</title></rect>
+  <rect x="332" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-23: 0 papers</title></rect>
+  <rect x="332" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-24: 0 papers</title></rect>
+  <rect x="332" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-25: 0 papers</title></rect>
+  <rect x="332" y="90" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-06-26: 1 papers</title></rect>
+  <rect x="332" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-27: 0 papers</title></rect>
+  <rect x="332" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-28: 0 papers</title></rect>
+  <rect x="346" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-06-29: 1 papers</title></rect>
+  <rect x="346" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-06-30: 0 papers</title></rect>
+  <rect x="346" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-01: 0 papers</title></rect>
+  <rect x="346" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-02: 0 papers</title></rect>
+  <rect x="346" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-03: 0 papers</title></rect>
+  <rect x="346" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-04: 0 papers</title></rect>
+  <rect x="346" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-05: 0 papers</title></rect>
+  <rect x="360" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-06: 0 papers</title></rect>
+  <rect x="360" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-07: 0 papers</title></rect>
+  <rect x="360" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-08: 0 papers</title></rect>
+  <rect x="360" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-09: 0 papers</title></rect>
+  <rect x="360" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-10: 0 papers</title></rect>
+  <rect x="360" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-11: 0 papers</title></rect>
+  <rect x="360" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-12: 0 papers</title></rect>
+  <rect x="374" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-13: 0 papers</title></rect>
+  <rect x="374" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-14: 0 papers</title></rect>
+  <rect x="374" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-15: 0 papers</title></rect>
+  <rect x="374" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-16: 0 papers</title></rect>
+  <rect x="374" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-17: 0 papers</title></rect>
+  <rect x="374" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-18: 0 papers</title></rect>
+  <rect x="374" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-19: 0 papers</title></rect>
+  <rect x="388" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-20: 0 papers</title></rect>
+  <rect x="388" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-21: 0 papers</title></rect>
+  <rect x="388" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-22: 0 papers</title></rect>
+  <rect x="388" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-23: 0 papers</title></rect>
+  <rect x="388" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-24: 0 papers</title></rect>
+  <rect x="388" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-25: 0 papers</title></rect>
+  <rect x="388" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-26: 0 papers</title></rect>
+  <rect x="402" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-27: 0 papers</title></rect>
+  <rect x="402" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-28: 0 papers</title></rect>
+  <rect x="402" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-29: 0 papers</title></rect>
+  <rect x="402" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-30: 0 papers</title></rect>
+  <rect x="402" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-07-31: 0 papers</title></rect>
+  <rect x="402" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-01: 0 papers</title></rect>
+  <rect x="402" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-02: 0 papers</title></rect>
+  <rect x="416" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-08-03: 1 papers</title></rect>
+  <rect x="416" y="48" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-08-04: 2 papers</title></rect>
+  <rect x="416" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-05: 0 papers</title></rect>
+  <rect x="416" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-06: 0 papers</title></rect>
+  <rect x="416" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-07: 0 papers</title></rect>
+  <rect x="416" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-08: 0 papers</title></rect>
+  <rect x="416" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-09: 0 papers</title></rect>
+  <rect x="430" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-10: 0 papers</title></rect>
+  <rect x="430" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-11: 0 papers</title></rect>
+  <rect x="430" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-12: 0 papers</title></rect>
+  <rect x="430" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-13: 0 papers</title></rect>
+  <rect x="430" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-14: 0 papers</title></rect>
+  <rect x="430" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-15: 0 papers</title></rect>
+  <rect x="430" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-16: 0 papers</title></rect>
+  <rect x="444" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-17: 0 papers</title></rect>
+  <rect x="444" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-18: 0 papers</title></rect>
+  <rect x="444" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-19: 0 papers</title></rect>
+  <rect x="444" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-20: 0 papers</title></rect>
+  <rect x="444" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-21: 0 papers</title></rect>
+  <rect x="444" y="104" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-08-22: 1 papers</title></rect>
+  <rect x="444" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-23: 0 papers</title></rect>
+  <rect x="458" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-24: 0 papers</title></rect>
+  <rect x="458" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-25: 0 papers</title></rect>
+  <rect x="458" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-26: 0 papers</title></rect>
+  <rect x="458" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-27: 0 papers</title></rect>
+  <rect x="458" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-28: 0 papers</title></rect>
+  <rect x="458" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-29: 0 papers</title></rect>
+  <rect x="458" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-30: 0 papers</title></rect>
+  <rect x="472" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-08-31: 0 papers</title></rect>
+  <rect x="472" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-01: 0 papers</title></rect>
+  <rect x="472" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-02: 0 papers</title></rect>
+  <rect x="472" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-03: 0 papers</title></rect>
+  <rect x="472" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-04: 0 papers</title></rect>
+  <rect x="472" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-05: 0 papers</title></rect>
+  <rect x="472" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-06: 0 papers</title></rect>
+  <rect x="486" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-07: 0 papers</title></rect>
+  <rect x="486" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-08: 0 papers</title></rect>
+  <rect x="486" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-09: 0 papers</title></rect>
+  <rect x="486" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-10: 0 papers</title></rect>
+  <rect x="486" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-11: 0 papers</title></rect>
+  <rect x="486" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-12: 0 papers</title></rect>
+  <rect x="486" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-13: 0 papers</title></rect>
+  <rect x="500" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-14: 0 papers</title></rect>
+  <rect x="500" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-15: 0 papers</title></rect>
+  <rect x="500" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-16: 0 papers</title></rect>
+  <rect x="500" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-17: 0 papers</title></rect>
+  <rect x="500" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-18: 0 papers</title></rect>
+  <rect x="500" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-19: 0 papers</title></rect>
+  <rect x="500" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-20: 0 papers</title></rect>
+  <rect x="514" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-21: 0 papers</title></rect>
+  <rect x="514" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-22: 0 papers</title></rect>
+  <rect x="514" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-23: 0 papers</title></rect>
+  <rect x="514" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-24: 0 papers</title></rect>
+  <rect x="514" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-25: 0 papers</title></rect>
+  <rect x="514" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-26: 0 papers</title></rect>
+  <rect x="514" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-27: 0 papers</title></rect>
+  <rect x="528" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-28: 0 papers</title></rect>
+  <rect x="528" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-29: 0 papers</title></rect>
+  <rect x="528" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-09-30: 0 papers</title></rect>
+  <rect x="528" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-01: 0 papers</title></rect>
+  <rect x="528" y="90" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-10-02: 1 papers</title></rect>
+  <rect x="528" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-03: 0 papers</title></rect>
+  <rect x="528" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-04: 0 papers</title></rect>
+  <rect x="542" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-05: 0 papers</title></rect>
+  <rect x="542" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-06: 0 papers</title></rect>
+  <rect x="542" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-07: 0 papers</title></rect>
+  <rect x="542" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-08: 0 papers</title></rect>
+  <rect x="542" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-09: 0 papers</title></rect>
+  <rect x="542" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-10: 0 papers</title></rect>
+  <rect x="542" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-11: 0 papers</title></rect>
+  <rect x="556" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-12: 0 papers</title></rect>
+  <rect x="556" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-13: 0 papers</title></rect>
+  <rect x="556" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-14: 0 papers</title></rect>
+  <rect x="556" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-15: 0 papers</title></rect>
+  <rect x="556" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-16: 0 papers</title></rect>
+  <rect x="556" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-17: 0 papers</title></rect>
+  <rect x="556" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-18: 0 papers</title></rect>
+  <rect x="570" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-19: 0 papers</title></rect>
+  <rect x="570" y="48" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2025-10-20: 1 papers</title></rect>
+  <rect x="570" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-21: 0 papers</title></rect>
+  <rect x="570" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-22: 0 papers</title></rect>
+  <rect x="570" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-23: 0 papers</title></rect>
+  <rect x="570" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-24: 0 papers</title></rect>
+  <rect x="570" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-25: 0 papers</title></rect>
+  <rect x="584" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-26: 0 papers</title></rect>
+  <rect x="584" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-27: 0 papers</title></rect>
+  <rect x="584" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-28: 0 papers</title></rect>
+  <rect x="584" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-29: 0 papers</title></rect>
+  <rect x="584" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-30: 0 papers</title></rect>
+  <rect x="584" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-10-31: 0 papers</title></rect>
+  <rect x="584" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-01: 0 papers</title></rect>
+  <rect x="598" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-02: 0 papers</title></rect>
+  <rect x="598" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-03: 0 papers</title></rect>
+  <rect x="598" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-04: 0 papers</title></rect>
+  <rect x="598" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-05: 0 papers</title></rect>
+  <rect x="598" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-06: 0 papers</title></rect>
+  <rect x="598" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-07: 0 papers</title></rect>
+  <rect x="598" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-08: 0 papers</title></rect>
+  <rect x="612" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-09: 0 papers</title></rect>
+  <rect x="612" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-10: 0 papers</title></rect>
+  <rect x="612" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-11: 0 papers</title></rect>
+  <rect x="612" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-12: 0 papers</title></rect>
+  <rect x="612" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-13: 0 papers</title></rect>
+  <rect x="612" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-14: 0 papers</title></rect>
+  <rect x="612" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-15: 0 papers</title></rect>
+  <rect x="626" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-16: 0 papers</title></rect>
+  <rect x="626" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-17: 0 papers</title></rect>
+  <rect x="626" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-18: 0 papers</title></rect>
+  <rect x="626" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-19: 0 papers</title></rect>
+  <rect x="626" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-20: 0 papers</title></rect>
+  <rect x="626" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-21: 0 papers</title></rect>
+  <rect x="626" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-22: 0 papers</title></rect>
+  <rect x="640" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-23: 0 papers</title></rect>
+  <rect x="640" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-24: 0 papers</title></rect>
+  <rect x="640" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-25: 0 papers</title></rect>
+  <rect x="640" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-26: 0 papers</title></rect>
+  <rect x="640" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-27: 0 papers</title></rect>
+  <rect x="640" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-28: 0 papers</title></rect>
+  <rect x="640" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-29: 0 papers</title></rect>
+  <rect x="654" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-11-30: 0 papers</title></rect>
+  <rect x="654" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-01: 0 papers</title></rect>
+  <rect x="654" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-02: 0 papers</title></rect>
+  <rect x="654" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-03: 0 papers</title></rect>
+  <rect x="654" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-04: 0 papers</title></rect>
+  <rect x="654" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-05: 0 papers</title></rect>
+  <rect x="654" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-06: 0 papers</title></rect>
+  <rect x="668" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-07: 0 papers</title></rect>
+  <rect x="668" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-08: 0 papers</title></rect>
+  <rect x="668" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-09: 0 papers</title></rect>
+  <rect x="668" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-10: 0 papers</title></rect>
+  <rect x="668" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-11: 0 papers</title></rect>
+  <rect x="668" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-12: 0 papers</title></rect>
+  <rect x="668" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-13: 0 papers</title></rect>
+  <rect x="682" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-14: 0 papers</title></rect>
+  <rect x="682" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-15: 0 papers</title></rect>
+  <rect x="682" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-16: 0 papers</title></rect>
+  <rect x="682" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-17: 0 papers</title></rect>
+  <rect x="682" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-18: 0 papers</title></rect>
+  <rect x="682" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-19: 0 papers</title></rect>
+  <rect x="682" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-20: 0 papers</title></rect>
+  <rect x="696" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-21: 0 papers</title></rect>
+  <rect x="696" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-22: 0 papers</title></rect>
+  <rect x="696" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-23: 0 papers</title></rect>
+  <rect x="696" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-24: 0 papers</title></rect>
+  <rect x="696" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-25: 0 papers</title></rect>
+  <rect x="696" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-26: 0 papers</title></rect>
+  <rect x="696" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-27: 0 papers</title></rect>
+  <rect x="710" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-28: 0 papers</title></rect>
+  <rect x="710" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-29: 0 papers</title></rect>
+  <rect x="710" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-30: 0 papers</title></rect>
+  <rect x="710" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2025-12-31: 0 papers</title></rect>
+  <rect x="710" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-01: 0 papers</title></rect>
+  <rect x="710" y="104" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-01-02: 3 papers</title></rect>
+  <rect x="710" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-03: 0 papers</title></rect>
+  <rect x="724" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-01-04: 1 papers</title></rect>
+  <rect x="724" y="48" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-01-05: 2 papers</title></rect>
+  <rect x="724" y="62" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-01-06: 2 papers</title></rect>
+  <rect x="724" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-07: 0 papers</title></rect>
+  <rect x="724" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-08: 0 papers</title></rect>
+  <rect x="724" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-09: 0 papers</title></rect>
+  <rect x="724" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-10: 0 papers</title></rect>
+  <rect x="738" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-11: 0 papers</title></rect>
+  <rect x="738" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-12: 0 papers</title></rect>
+  <rect x="738" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-13: 0 papers</title></rect>
+  <rect x="738" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-14: 0 papers</title></rect>
+  <rect x="738" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-15: 0 papers</title></rect>
+  <rect x="738" y="104" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-01-16: 1 papers</title></rect>
+  <rect x="738" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-17: 0 papers</title></rect>
+  <rect x="752" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-01-18: 1 papers</title></rect>
+  <rect x="752" y="48" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-01-19: 1 papers</title></rect>
+  <rect x="752" y="62" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-01-20: 1 papers</title></rect>
+  <rect x="752" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-21: 0 papers</title></rect>
+  <rect x="752" y="90" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-01-22: 1 papers</title></rect>
+  <rect x="752" y="104" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-23: 0 papers</title></rect>
+  <rect x="752" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-24: 0 papers</title></rect>
+  <rect x="766" y="34" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-01-25: 1 papers</title></rect>
+  <rect x="766" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-26: 0 papers</title></rect>
+  <rect x="766" y="62" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-01-27: 1 papers</title></rect>
+  <rect x="766" y="76" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-01-28: 1 papers</title></rect>
+  <rect x="766" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-01-29: 0 papers</title></rect>
+  <text x="693" y="150" text-anchor="end" class="legend">Less</text>
+  <rect x="698" y="140" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
+  <rect x="713" y="140" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
+  <rect x="728" y="140" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
+  <rect x="743" y="140" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
+  <rect x="758" y="140" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
+  <text x="774" y="150" class="legend">More</text>
   </g>
-
-  <!-- Topics Radar Chart -->
   <g transform="translate(20, 248)">
-    <circle cx="200" cy="200" r="22" fill="none" stroke="#d0d7de" stroke-width="1"/>
-    <circle cx="200" cy="200" r="45" fill="none" stroke="#d0d7de" stroke-width="1"/>
-    <circle cx="200" cy="200" r="67" fill="none" stroke="#d0d7de" stroke-width="1"/>
-    <circle cx="200" cy="200" r="90" fill="none" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="200" y2="110" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="264" y2="136" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="290" y2="200" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="264" y2="264" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="200" y2="290" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="136" y2="264" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="110" y2="200" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="136" y2="136" stroke="#d0d7de" stroke-width="1"/>
-    <polygon points="200,110 254,146 273,200 252,252 200,242 170,230 158,200 170,170" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
-    <circle cx="200" cy="110" r="4" fill="#40c463"/>
-    <circle cx="254" cy="146" r="4" fill="#40c463"/>
-    <circle cx="273" cy="200" r="4" fill="#40c463"/>
-    <circle cx="252" cy="252" r="4" fill="#40c463"/>
-    <circle cx="200" cy="242" r="4" fill="#40c463"/>
-    <circle cx="170" cy="230" r="4" fill="#40c463"/>
-    <circle cx="158" cy="200" r="4" fill="#40c463"/>
-    <circle cx="170" cy="170" r="4" fill="#40c463"/>
-    <text x="200" y="60" text-anchor="middle" class="label">Machine</text>
-    <text x="200" y="75" text-anchor="middle" class="label">Learning</text>
-    <text x="200" y="90" text-anchor="middle" class="value">(24)</text>
-    <text x="288" y="112" text-anchor="start" class="label">Data</text>
-    <text x="288" y="127" text-anchor="start" class="label">Science</text>
-    <text x="288" y="142" text-anchor="start" class="value">(18)</text>
-    <text x="325" y="200" text-anchor="start" class="label">Computer</text>
-    <text x="325" y="215" text-anchor="start" class="label">Vision</text>
-    <text x="325" y="230" text-anchor="start" class="value">(15)</text>
-    <text x="288" y="288" text-anchor="start" class="label">Natural</text>
-    <text x="288" y="303" text-anchor="start" class="label">Language...</text>
-    <text x="288" y="318" text-anchor="start" class="value">(14)</text>
-    <text x="200" y="330" text-anchor="middle" class="label">Distributed</text>
-    <text x="200" y="345" text-anchor="middle" class="label">Systems</text>
-    <text x="200" y="360" text-anchor="middle" class="value">(9)</text>
-    <text x="112" y="288" text-anchor="end" class="label">Databases</text>
-    <text x="112" y="303" text-anchor="end" class="value">(8)</text>
-    <text x="75" y="200" text-anchor="end" class="label">Software</text>
-    <text x="75" y="215" text-anchor="end" class="label">Engineering</text>
-    <text x="75" y="230" text-anchor="end" class="value">(7)</text>
-    <text x="112" y="112" text-anchor="end" class="label">Algorithms</text>
-    <text x="112" y="127" text-anchor="end" class="value">(7)</text>
+<circle cx="200" cy="200" r="22" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="200" cy="200" r="45" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="200" cy="200" r="67" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="200" cy="200" r="90" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="200.0" y2="110.0" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="263.6396103067893" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="290.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="263.6396103067893" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="200.0" y2="290.0" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="136.36038969321072" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="110.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="136.36038969321072" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
+  <polygon points="200.0,110.0 249.75460442167162,150.24539557832838 270.3636363636364,200.0 249.75460442167162,249.75460442167162 200.0,240.9090909090909 171.07290440600488,228.92709559399512 159.0909090909091,200.0 171.07290440600485,171.07290440600488" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
+  <circle cx="200.0" cy="110.0" r="4" fill="#40c463"/>
+  <circle cx="249.75460442167162" cy="150.24539557832838" r="4" fill="#40c463"/>
+  <circle cx="270.3636363636364" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="249.75460442167162" cy="249.75460442167162" r="4" fill="#40c463"/>
+  <circle cx="200.0" cy="240.9090909090909" r="4" fill="#40c463"/>
+  <circle cx="171.07290440600488" cy="228.92709559399512" r="4" fill="#40c463"/>
+  <circle cx="159.0909090909091" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="171.07290440600485" cy="171.07290440600488" r="4" fill="#40c463"/>
+  <text x="200.0" y="60.0" text-anchor="middle" class="label">Deep</text>
+  <text x="200.0" y="75.0" text-anchor="middle" class="label">Learning</text>
+  <text x="200.0" y="90.0" text-anchor="middle" class="value">(22)</text>
+  <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">Electronic</text>
+  <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="label">Health...</text>
+  <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(16)</text>
+  <text x="325.0" y="200.0" text-anchor="start" class="label">Machine</text>
+  <text x="325.0" y="215.0" text-anchor="start" class="label">Learning</text>
+  <text x="325.0" y="230.0" text-anchor="start" class="value">(16)</text>
+  <text x="288.3883476483185" y="288.3883476483184" text-anchor="start" class="label">Natural</text>
+  <text x="288.3883476483185" y="303.3883476483184" text-anchor="start" class="label">Language...</text>
+  <text x="288.3883476483185" y="318.3883476483184" text-anchor="start" class="value">(16)</text>
+  <text x="200.0" y="330.0" text-anchor="middle" class="label">Artificial</text>
+  <text x="200.0" y="345.0" text-anchor="middle" class="label">Intelligence</text>
+  <text x="200.0" y="360.0" text-anchor="middle" class="value">(7)</text>
+  <text x="111.61165235168157" y="288.3883476483185" text-anchor="end" class="label">Bioinformatics</text>
+  <text x="111.61165235168157" y="303.3883476483185" text-anchor="end" class="value">(7)</text>
+  <text x="75.0" y="200.00000000000003" text-anchor="end" class="label">Clinical</text>
+  <text x="75.0" y="215.00000000000003" text-anchor="end" class="label">Decision...</text>
+  <text x="75.0" y="230.00000000000003" text-anchor="end" class="value">(7)</text>
+  <text x="111.61165235168154" y="111.61165235168157" text-anchor="end" class="label">Neural</text>
+  <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="label">Networks</text>
+  <text x="111.61165235168154" y="141.61165235168158" text-anchor="end" class="value">(7)</text>
   </g>
-
-  <!-- Journals Radar Chart -->
   <g transform="translate(480, 248)">
-    <circle cx="200" cy="200" r="22" fill="none" stroke="#d0d7de" stroke-width="1"/>
-    <circle cx="200" cy="200" r="45" fill="none" stroke="#d0d7de" stroke-width="1"/>
-    <circle cx="200" cy="200" r="67" fill="none" stroke="#d0d7de" stroke-width="1"/>
-    <circle cx="200" cy="200" r="90" fill="none" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="200" y2="110" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="264" y2="136" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="290" y2="200" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="264" y2="264" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="200" y2="290" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="136" y2="264" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="110" y2="200" stroke="#d0d7de" stroke-width="1"/>
-    <line x1="200" y1="200" x2="136" y2="136" stroke="#d0d7de" stroke-width="1"/>
-    <polygon points="200,110 225,175 228,200 217,217 200,224 184,216 178,200 184,184" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
-    <circle cx="200" cy="110" r="4" fill="#40c463"/>
-    <circle cx="225" cy="175" r="4" fill="#40c463"/>
-    <circle cx="228" cy="200" r="4" fill="#40c463"/>
-    <circle cx="217" cy="217" r="4" fill="#40c463"/>
-    <circle cx="200" cy="224" r="4" fill="#40c463"/>
-    <circle cx="184" cy="216" r="4" fill="#40c463"/>
-    <circle cx="178" cy="200" r="4" fill="#40c463"/>
-    <circle cx="184" cy="184" r="4" fill="#40c463"/>
-    <text x="200" y="60" text-anchor="middle" class="label">arXiv</text>
-    <text x="200" y="75" text-anchor="middle" class="value">(42)</text>
-    <text x="288" y="112" text-anchor="start" class="label">Nature</text>
-    <text x="288" y="127" text-anchor="start" class="value">(12)</text>
-    <text x="325" y="200" text-anchor="start" class="label">ACM</text>
-    <text x="325" y="215" text-anchor="start" class="label">Computing...</text>
-    <text x="325" y="230" text-anchor="start" class="value">(10)</text>
-    <text x="288" y="288" text-anchor="start" class="label">IEEE</text>
-    <text x="288" y="303" text-anchor="start" class="label">Trans...</text>
-    <text x="288" y="318" text-anchor="start" class="value">(8)</text>
-    <text x="200" y="330" text-anchor="middle" class="label">PLOS ONE</text>
-    <text x="200" y="345" text-anchor="middle" class="value">(7)</text>
-    <text x="112" y="288" text-anchor="end" class="label">Science</text>
-    <text x="112" y="303" text-anchor="end" class="value">(6)</text>
-    <text x="75" y="200" text-anchor="end" class="label">JMLR</text>
-    <text x="75" y="215" text-anchor="end" class="value">(5)</text>
-    <text x="112" y="112" text-anchor="end" class="label">NeurIPS</text>
-    <text x="112" y="127" text-anchor="end" class="value">(5)</text>
+<circle cx="200" cy="200" r="22" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="200" cy="200" r="45" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="200" cy="200" r="67" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="200" cy="200" r="90" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="200.0" y2="110.0" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="263.6396103067893" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="290.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="263.6396103067893" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="200.0" y2="290.0" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="136.36038969321072" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="110.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="200" y1="200" x2="136.36038969321072" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
+  <polygon points="200.0,110.0 223.99844846683504,176.00155153316496 226.793893129771,200.0 216.61431047703965,216.61431047703965 200.0,223.49618320610688 183.77432836452854,216.22567163547146 177.6030534351145,200.0 184.55160604766488,184.5516060476649" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
+  <circle cx="200.0" cy="110.0" r="4" fill="#40c463"/>
+  <circle cx="223.99844846683504" cy="176.00155153316496" r="4" fill="#40c463"/>
+  <circle cx="226.793893129771" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="216.61431047703965" cy="216.61431047703965" r="4" fill="#40c463"/>
+  <circle cx="200.0" cy="223.49618320610688" r="4" fill="#40c463"/>
+  <circle cx="183.77432836452854" cy="216.22567163547146" r="4" fill="#40c463"/>
+  <circle cx="177.6030534351145" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="184.55160604766488" cy="184.5516060476649" r="4" fill="#40c463"/>
+  <text x="200.0" y="60.0" text-anchor="middle" class="label">arXiv</text>
+  <text x="200.0" y="75.0" text-anchor="middle" class="value">(131)</text>
+  <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">Journal of</text>
+  <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="label">the...</text>
+  <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(29)</text>
+  <text x="325.0" y="200.0" text-anchor="start" class="label">Journal of</text>
+  <text x="325.0" y="215.0" text-anchor="start" class="label">Biomedica...</text>
+  <text x="325.0" y="230.0" text-anchor="start" class="value">(16)</text>
+  <text x="288.3883476483185" y="288.3883476483184" text-anchor="start" class="label">AMIA ...</text>
+  <text x="288.3883476483185" y="303.3883476483184" text-anchor="start" class="label">Annual...</text>
+  <text x="288.3883476483185" y="318.3883476483184" text-anchor="start" class="value">(10)</text>
+  <text x="200.0" y="330.0" text-anchor="middle" class="label">Medical Care</text>
+  <text x="200.0" y="345.0" text-anchor="middle" class="value">(10)</text>
+  <text x="111.61165235168157" y="288.3883476483185" text-anchor="end" class="label">BMC Medical</text>
+  <text x="111.61165235168157" y="303.3883476483185" text-anchor="end" class="label">Informatic...</text>
+  <text x="111.61165235168157" y="318.3883476483185" text-anchor="end" class="value">(9)</text>
+  <text x="75.0" y="200.00000000000003" text-anchor="end" class="label">BMC</text>
+  <text x="75.0" y="215.00000000000003" text-anchor="end" class="label">Bioinformatics</text>
+  <text x="75.0" y="230.00000000000003" text-anchor="end" class="value">(8)</text>
+  <text x="111.61165235168154" y="111.61165235168157" text-anchor="end" class="label">BMJ</text>
+  <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="value">(7)</text>
   </g>
-
-  <!-- Footer -->
-  <text x="880" y="678" text-anchor="end" class="footer">95 papers · <a xlink:href="https://github.com/dejori/paper-trail" target="_blank"><tspan class="footer-link">paper-trail</tspan></a></text>
+  <text x="880" y="678" text-anchor="end" class="footer">43 papers · <a xlink:href="https://github.com/dejori/my-paper-trail" target="_blank"><tspan class="footer-link">paper-trail</tspan></a></text>
 </svg>
