@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-43 papers read in the last year
+44 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 
 ## January 2026
 
+- [End-to-End Test-Time Training for Long Context](https://arxiv.org/abs/2512.23675v2) — Tandon, Dalal, Li, Koceja, Rød, Buchanan, Wang, Leskovec, Koyejo, Hashimoto, Guestrin, Mccaleb, Choi, Sun
+  > *We formulate long-context language modeling as a problem in continual learning rather than architecture design.*
 - [Towards LLMs Robustness to Changes in Prompt Format Styles](https://arxiv.org/abs/2504.06969) — Ngweta, Kate, Tsay, Rizk (2025)
   > *Large language models (LLMs) have gained popularity in recent years for their utility in various applications.*
 - A.I. and Our Economic Future — Jones, Gsb (2026)
@@ -1105,9 +1107,7 @@ multi-label classification due to its complex label hierarchy.*
 - [Effects of clinical decision-support systems on practitioner performance and patient outcomes: a synthesis of high-quality systematic review findings](https://doi.org/10.1136/amiajnl-2011-000094) — Jaspers, Smeulers, Vermeulen, Peute (2011)
 - [Structured physician order entry for trauma CT: value in improving clinical information transfer and billing efficiency](https://doi.org/10.2214/AJR.13.12353) — Wortman, Goud, Raja, Marchello, Sodickson (2014)
   > *OBJECTIVE.*
-- [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/abs/1703.01619) — Neubig (2017)
-  > *This tutorial introduces a new and powerful set of techniques variously called "neural machine translation" or "neural sequence-to-sequence models".*
 
 ---
 
-*Last synced: 2026-01-29*
+*Last synced: 2026-01-30*
