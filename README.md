@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-44 papers read in the last year
+46 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -13,6 +13,12 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 ![Journals](assets/journals.svg)
 
 <a id="2026"></a>
+
+## February 2026
+
+- [ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge](https://doi.org/10.7759/cureus.40895) — Li, Li, Zhang, Dan, Jiang, Zhang, Li, Li, Zhang, Dan, Jiang, Zhang (2023)
+  > *The primary aim of this research was to address the limitations observed in the medical knowledge of prevalent large language models (LLMs) such as ChatGPT, by creating a specialized language model...*
+- NVIDIA Nemotron 3: Efficient and Open Intelligence — Mamba
 
 ## January 2026
 
@@ -1104,10 +1110,7 @@ multi-label classification due to its complex label hierarchy.*
 - [Reporting performance of prognostic models in cancer: a review](https://doi.org/10.1186/1741-7015-8-21) — Mallett, Royston, Waters, Dutton, Altman (2010)
 - [A systematic review finds prediction models for chronic kidney disease were poorly reported and often developed using inappropriate methods](https://doi.org/10.1016/j.jclinepi.2012.11.012) — Tangri, Inker, Levey (2013)
 - [Prediction of Coronary Heart Disease Using Risk Factor Categories](https://doi.org/10.1161/01.CIR.97.18.1837) — Wilson, D'Agostino, Levy, Belanger, Silbershatz, Kannel (1998)
-- [Effects of clinical decision-support systems on practitioner performance and patient outcomes: a synthesis of high-quality systematic review findings](https://doi.org/10.1136/amiajnl-2011-000094) — Jaspers, Smeulers, Vermeulen, Peute (2011)
-- [Structured physician order entry for trauma CT: value in improving clinical information transfer and billing efficiency](https://doi.org/10.2214/AJR.13.12353) — Wortman, Goud, Raja, Marchello, Sodickson (2014)
-  > *OBJECTIVE.*
 
 ---
 
-*Last synced: 2026-02-05*
+*Last synced: 2026-02-06*
