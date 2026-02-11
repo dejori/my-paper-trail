@@ -381,6 +381,7 @@
   <rect x="766" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-02-08: 0 papers</title></rect>
   <rect x="766" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-02-09: 0 papers</title></rect>
   <rect x="766" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-02-10: 0 papers</title></rect>
+  <rect x="766" y="76" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-02-11: 1 papers</title></rect>
   <text x="693" y="150" text-anchor="end" class="legend">Less</text>
   <rect x="698" y="140" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
   <rect x="713" y="140" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
@@ -448,17 +449,17 @@
   <line x1="200" y1="200" x2="136.36038969321072" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="110.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="136.36038969321072" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
-  <polygon points="200.0,110.0 223.60980962526685,176.39019037473315 226.793893129771,200.0 216.61431047703965,216.61431047703965 200.0,223.49618320610688 183.77432836452854,216.22567163547146 177.6030534351145,200.0 184.55160604766488,184.5516060476649" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
+  <polygon points="200.0,110.0 223.52737108311604,176.47262891688396 226.72727272727272,200.0 216.5848681405572,216.5848681405572 200.0,223.45454545454547 183.80082646736273,216.19917353263727 177.63636363636363,200.0 184.5722156832026,184.57221568320261" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
   <circle cx="200.0" cy="110.0" r="4" fill="#40c463"/>
-  <circle cx="223.60980962526685" cy="176.39019037473315" r="4" fill="#40c463"/>
-  <circle cx="226.793893129771" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="216.61431047703965" cy="216.61431047703965" r="4" fill="#40c463"/>
-  <circle cx="200.0" cy="223.49618320610688" r="4" fill="#40c463"/>
-  <circle cx="183.77432836452854" cy="216.22567163547146" r="4" fill="#40c463"/>
-  <circle cx="177.6030534351145" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="184.55160604766488" cy="184.5516060476649" r="4" fill="#40c463"/>
+  <circle cx="223.52737108311604" cy="176.47262891688396" r="4" fill="#40c463"/>
+  <circle cx="226.72727272727272" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="216.5848681405572" cy="216.5848681405572" r="4" fill="#40c463"/>
+  <circle cx="200.0" cy="223.45454545454547" r="4" fill="#40c463"/>
+  <circle cx="183.80082646736273" cy="216.19917353263727" r="4" fill="#40c463"/>
+  <circle cx="177.63636363636363" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="184.5722156832026" cy="184.57221568320261" r="4" fill="#40c463"/>
   <text x="200.0" y="60.0" text-anchor="middle" class="label">arXiv</text>
-  <text x="200.0" y="75.0" text-anchor="middle" class="value">(131)</text>
+  <text x="200.0" y="75.0" text-anchor="middle" class="value">(132)</text>
   <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">Journal of</text>
   <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="label">the...</text>
   <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(28)</text>
@@ -479,5 +480,5 @@
   <text x="111.61165235168154" y="111.61165235168157" text-anchor="end" class="label">BMJ</text>
   <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="value">(7)</text>
   </g>
-  <text x="880" y="678" text-anchor="end" class="footer">46 papers · <a xlink:href="https://github.com/dejori/my-paper-trail" target="_blank"><tspan class="footer-link">paper-trail</tspan></a></text>
+  <text x="880" y="678" text-anchor="end" class="footer">47 papers · <a xlink:href="https://github.com/dejori/my-paper-trail" target="_blank"><tspan class="footer-link">paper-trail</tspan></a></text>
 </svg>

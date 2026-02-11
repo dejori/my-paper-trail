@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-46 papers read in the last year
+47 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 
 ## February 2026
 
+- [Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)](https://arxiv.org/abs/2510.22954v1) — Jiang, Chai, Li, Liu, Fok, Dziri, Tsvetkov, Sap, Albalak, Choi
+  > *Large language models (LMs) often struggle to generate diverse, human-like creative content, raising concerns about the long-term homogenization of human thought through repeated exposure to similar...*
 - [ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge](https://doi.org/10.7759/cureus.40895) — Li, Li, Zhang, Dan, Jiang, Zhang, Li, Li, Zhang, Dan, Jiang, Zhang (2023)
   > *The primary aim of this research was to address the limitations observed in the medical knowledge of prevalent large language models (LLMs) such as ChatGPT, by creating a specialized language model...*
 - NVIDIA Nemotron 3: Efficient and Open Intelligence — Mamba
@@ -1109,8 +1111,7 @@ multi-label classification due to its complex label hierarchy.*
 - [Systematic Review of Prognostic Models in Patients with Acute Stroke](https://doi.org/10.1159/000047699) — Counsell, Dennis (2001)
 - [Reporting performance of prognostic models in cancer: a review](https://doi.org/10.1186/1741-7015-8-21) — Mallett, Royston, Waters, Dutton, Altman (2010)
 - [A systematic review finds prediction models for chronic kidney disease were poorly reported and often developed using inappropriate methods](https://doi.org/10.1016/j.jclinepi.2012.11.012) — Tangri, Inker, Levey (2013)
-- [Prediction of Coronary Heart Disease Using Risk Factor Categories](https://doi.org/10.1161/01.CIR.97.18.1837) — Wilson, D'Agostino, Levy, Belanger, Silbershatz, Kannel (1998)
 
 ---
 
-*Last synced: 2026-02-10*
+*Last synced: 2026-02-11*
