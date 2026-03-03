@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-33 papers read in the last year
+34 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -13,6 +13,10 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 ![Journals](assets/journals.svg)
 
 <a id="2026"></a>
+
+## March 2026
+
+- When AI Builds AI Findings From a Workshop on Automation of AI R&D — Fisher, Scholl, Wildeford, Greenblatt, Albanie, Ballard, Larsen, Toner, Beers, Newman, Khan, Shea-Blymyer, Yee, Acharya (2026)
 
 ## February 2026
 
@@ -1110,8 +1114,7 @@ multi-label classification due to its complex label hierarchy.*
 - [Caveats for the Use of Operational Electronic Health Record Data in Comparative Effectiveness Research](https://doi.org/10.1097/MLR.0b013e31829b1dbd) — Hersh, Weiner, Embi, Logan, Payne, Bernstam, Lehmann, Hripcsak, Hartzog, Cimino, Saltz (2013)
 - [Systematic Review of Prognostic Models in Patients with Acute Stroke](https://doi.org/10.1159/000047699) — Counsell, Dennis (2001)
 - [Reporting performance of prognostic models in cancer: a review](https://doi.org/10.1186/1741-7015-8-21) — Mallett, Royston, Waters, Dutton, Altman (2010)
-- [A systematic review finds prediction models for chronic kidney disease were poorly reported and often developed using inappropriate methods](https://doi.org/10.1016/j.jclinepi.2012.11.012) — Tangri, Inker, Levey (2013)
 
 ---
 
-*Last synced: 2026-03-02*
+*Last synced: 2026-03-03*
