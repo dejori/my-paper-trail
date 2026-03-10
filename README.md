@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-33 papers read in the last year
+34 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 
 ## March 2026
 
+- [What Matters in Data for DPO?](https://arxiv.org/abs/2508.18312) — Pan, Cai, Chen, Zhong, Wang (2025)
+  > *Direct Preference Optimization (DPO) has emerged as a simple and effective approach for aligning large language models (LLMs) with human preferences, bypassing the need for a learned reward model.*
 - When AI Builds AI Findings From a Workshop on Automation of AI R&D — Fisher, Scholl, Wildeford, Greenblatt, Albanie, Ballard, Larsen, Toner, Beers, Newman, Khan, Shea-Blymyer, Yee, Acharya (2026)
 
 ## February 2026
@@ -1113,8 +1115,7 @@ multi-label classification due to its complex label hierarchy.*
 - [Developing risk prediction models for type 2 diabetes: a systematic review of methodology and reporting](https://doi.org/10.1186/1741-7015-9-103) — Collins, Mallett, Omar, Yu (2011)
 - [Caveats for the Use of Operational Electronic Health Record Data in Comparative Effectiveness Research](https://doi.org/10.1097/MLR.0b013e31829b1dbd) — Hersh, Weiner, Embi, Logan, Payne, Bernstam, Lehmann, Hripcsak, Hartzog, Cimino, Saltz (2013)
 - [Systematic Review of Prognostic Models in Patients with Acute Stroke](https://doi.org/10.1159/000047699) — Counsell, Dennis (2001)
-- [Reporting performance of prognostic models in cancer: a review](https://doi.org/10.1186/1741-7015-8-21) — Mallett, Royston, Waters, Dutton, Altman (2010)
 
 ---
 
-*Last synced: 2026-03-09*
+*Last synced: 2026-03-10*
