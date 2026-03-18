@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-34 papers read in the last year
+35 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 
 ## March 2026
 
+- [PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640) — Rank, Bhatnagar, Prabhu, Eisenberg, Nguyen, Bethge, Andriushchenko (2026)
+  > *AI agents have become surprisingly proficient at software engineering over the past year, largely due to improvements in reasoning capabilities.*
 - [What Matters in Data for DPO?](https://arxiv.org/abs/2508.18312) — Pan, Cai, Chen, Zhong, Wang (2025)
   > *Direct Preference Optimization (DPO) has emerged as a simple and effective approach for aligning large language models (LLMs) with human preferences, bypassing the need for a learned reward model.*
 - When AI Builds AI Findings From a Workshop on Automation of AI R&D — Fisher, Scholl, Wildeford, Greenblatt, Albanie, Ballard, Larsen, Toner, Beers, Newman, Khan, Shea-Blymyer, Yee, Acharya (2026)
@@ -1114,8 +1116,7 @@ multi-label classification due to its complex label hierarchy.*
 - [The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elaboration](https://doi.org/10.1016/j.jclinepi.2009.06.006) — Liberati, Altman, Tetzlaff, Mulrow, Gøtzsche, Ioannidis, Clarke, Devereaux, Kleijnen, Moher (2009)
 - [Developing risk prediction models for type 2 diabetes: a systematic review of methodology and reporting](https://doi.org/10.1186/1741-7015-9-103) — Collins, Mallett, Omar, Yu (2011)
 - [Caveats for the Use of Operational Electronic Health Record Data in Comparative Effectiveness Research](https://doi.org/10.1097/MLR.0b013e31829b1dbd) — Hersh, Weiner, Embi, Logan, Payne, Bernstam, Lehmann, Hripcsak, Hartzog, Cimino, Saltz (2013)
-- [Systematic Review of Prognostic Models in Patients with Acute Stroke](https://doi.org/10.1159/000047699) — Counsell, Dennis (2001)
 
 ---
 
-*Last synced: 2026-03-17*
+*Last synced: 2026-03-18*
