@@ -380,7 +380,8 @@
   <rect x="752" y="118" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-03-21: 0 papers</title></rect>
   <rect x="766" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-03-22: 0 papers</title></rect>
   <rect x="766" y="48" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-03-23: 0 papers</title></rect>
-  <rect x="766" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-03-24: 0 papers</title></rect>
+  <rect x="766" y="62" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-03-24: 1 papers</title></rect>
+  <rect x="766" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-03-25: 0 papers</title></rect>
   <text x="693" y="150" text-anchor="end" class="legend">Less</text>
   <rect x="698" y="140" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
   <rect x="713" y="140" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
@@ -448,17 +449,17 @@
   <line x1="200" y1="200" x2="136.36038969321072" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="110.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="136.36038969321072" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
-  <polygon points="200.0,110.0 223.36618527682114,176.63381472317886 226.59701492537314,200.0 216.52730178116616,216.52730178116616 200.0,223.37313432835822 183.85263619081465,216.14736380918535 177.70149253731344,200.0 184.61251213477632,184.61251213477632" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
+  <polygon points="200.0,110.0 223.28738332707698,176.71261667292305 226.53333333333333,200.0 216.4991582276861,216.4991582276861 200.0,222.8 183.8779653889467,216.1220346110533 177.73333333333335,200.0 184.63221262221236,184.63221262221236" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
   <circle cx="200.0" cy="110.0" r="4" fill="#40c463"/>
-  <circle cx="223.36618527682114" cy="176.63381472317886" r="4" fill="#40c463"/>
-  <circle cx="226.59701492537314" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="216.52730178116616" cy="216.52730178116616" r="4" fill="#40c463"/>
-  <circle cx="200.0" cy="223.37313432835822" r="4" fill="#40c463"/>
-  <circle cx="183.85263619081465" cy="216.14736380918535" r="4" fill="#40c463"/>
-  <circle cx="177.70149253731344" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="184.61251213477632" cy="184.61251213477632" r="4" fill="#40c463"/>
+  <circle cx="223.28738332707698" cy="176.71261667292305" r="4" fill="#40c463"/>
+  <circle cx="226.53333333333333" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="216.4991582276861" cy="216.4991582276861" r="4" fill="#40c463"/>
+  <circle cx="200.0" cy="222.8" r="4" fill="#40c463"/>
+  <circle cx="183.8779653889467" cy="216.1220346110533" r="4" fill="#40c463"/>
+  <circle cx="177.73333333333335" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="184.63221262221236" cy="184.63221262221236" r="4" fill="#40c463"/>
   <text x="200.0" y="60.0" text-anchor="middle" class="label">arXiv</text>
-  <text x="200.0" y="75.0" text-anchor="middle" class="value">(134)</text>
+  <text x="200.0" y="75.0" text-anchor="middle" class="value">(135)</text>
   <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">Journal of</text>
   <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="label">the...</text>
   <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(28)</text>
@@ -468,16 +469,16 @@
   <text x="288.3883476483185" y="288.3883476483184" text-anchor="start" class="label">AMIA ...</text>
   <text x="288.3883476483185" y="303.3883476483184" text-anchor="start" class="label">Annual...</text>
   <text x="288.3883476483185" y="318.3883476483184" text-anchor="start" class="value">(10)</text>
-  <text x="200.0" y="330.0" text-anchor="middle" class="label">Medical Care</text>
-  <text x="200.0" y="345.0" text-anchor="middle" class="value">(10)</text>
-  <text x="111.61165235168157" y="288.3883476483185" text-anchor="end" class="label">BMC Medical</text>
-  <text x="111.61165235168157" y="303.3883476483185" text-anchor="end" class="label">Informatic...</text>
-  <text x="111.61165235168157" y="318.3883476483185" text-anchor="end" class="value">(9)</text>
+  <text x="200.0" y="330.0" text-anchor="middle" class="label">BMC Medical</text>
+  <text x="200.0" y="345.0" text-anchor="middle" class="label">Informatic...</text>
+  <text x="200.0" y="360.0" text-anchor="middle" class="value">(9)</text>
+  <text x="111.61165235168157" y="288.3883476483185" text-anchor="end" class="label">Medical Care</text>
+  <text x="111.61165235168157" y="303.3883476483185" text-anchor="end" class="value">(9)</text>
   <text x="75.0" y="200.00000000000003" text-anchor="end" class="label">BMC</text>
   <text x="75.0" y="215.00000000000003" text-anchor="end" class="label">Bioinformatics</text>
   <text x="75.0" y="230.00000000000003" text-anchor="end" class="value">(8)</text>
   <text x="111.61165235168154" y="111.61165235168157" text-anchor="end" class="label">BMJ</text>
   <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="value">(7)</text>
   </g>
-  <text x="880" y="678" text-anchor="end" class="footer">34 papers · <a xlink:href="https://github.com/dejori/my-paper-trail" target="_blank"><tspan class="footer-link">paper-trail</tspan></a></text>
+  <text x="880" y="678" text-anchor="end" class="footer">35 papers · <a xlink:href="https://github.com/dejori/my-paper-trail" target="_blank"><tspan class="footer-link">paper-trail</tspan></a></text>
 </svg>
