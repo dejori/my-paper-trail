@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-35 papers read in the last year
+36 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,7 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 
 ## March 2026
 
+- Composer 2 Technical Report
 - [Qwen3 Technical Report](https://arxiv.org/abs/2505.09388v1) — Team (2025)
   > *In this work, we present Qwen3, the latest version of the Qwen model family.*
 - [PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640) — Rank, Bhatnagar, Prabhu, Eisenberg, Nguyen, Bethge, Andriushchenko (2026)
@@ -1116,8 +1117,7 @@ multi-label classification due to its complex label hierarchy.*
 - [Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis Or Diagnosis (TRIPOD): the TRIPOD statement](https://doi.org/10.1016/j.jclinepi.2014.11.010) — Collins, Reitsma, Altman, Moons (2015)
 - [A comparison of phenotype definitions for diabetes mellitus](https://doi.org/10.1136/amiajnl-2013-001952) — Richesson, Rusincovitch, Wixted, Batch, Feinglos, Miranda, Hammond, Califf, Spratt (2013)
 - [The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elaboration](https://doi.org/10.1016/j.jclinepi.2009.06.006) — Liberati, Altman, Tetzlaff, Mulrow, Gøtzsche, Ioannidis, Clarke, Devereaux, Kleijnen, Moher (2009)
-- [Developing risk prediction models for type 2 diabetes: a systematic review of methodology and reporting](https://doi.org/10.1186/1741-7015-9-103) — Collins, Mallett, Omar, Yu (2011)
 
 ---
 
-*Last synced: 2026-03-26*
+*Last synced: 2026-03-27*
