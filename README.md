@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-36 papers read in the last year
+37 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -13,6 +13,11 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 ![Journals](assets/journals.svg)
 
 <a id="2026"></a>
+
+## April 2026
+
+- [AI Must Embrace Specialization via Superhuman Adaptable Intelligence](https://arxiv.org/abs/2602.23643v1) — Goldfeder, Wyder, Lecun, Shwartz-Ziv
+  > *Everyone from AI executives and researchers to doomsayers, politicians, and activists is talking about Artificial General Intelligence (AGI).*
 
 ## March 2026
 
@@ -1116,8 +1121,7 @@ multi-label classification due to its complex label hierarchy.*
 - [Cardiovascular Disease Risk Assessment: Insights from Framingham](https://doi.org/10.1016/j.gheart.2013.01.001) — D'Agostino, Pencina, Massaro, Coady (2013)
 - [Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis Or Diagnosis (TRIPOD): the TRIPOD statement](https://doi.org/10.1016/j.jclinepi.2014.11.010) — Collins, Reitsma, Altman, Moons (2015)
 - [A comparison of phenotype definitions for diabetes mellitus](https://doi.org/10.1136/amiajnl-2013-001952) — Richesson, Rusincovitch, Wixted, Batch, Feinglos, Miranda, Hammond, Califf, Spratt (2013)
-- [The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elaboration](https://doi.org/10.1016/j.jclinepi.2009.06.006) — Liberati, Altman, Tetzlaff, Mulrow, Gøtzsche, Ioannidis, Clarke, Devereaux, Kleijnen, Moher (2009)
 
 ---
 
-*Last synced: 2026-04-05*
+*Last synced: 2026-04-06*
