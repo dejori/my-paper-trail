@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-37 papers read in the last year
+41 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,14 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 
 ## April 2026
 
+- [Crashing Waves vs. Rising Tides: Preliminary Findings on AI Automation from Thousands of Worker Evaluations of Labor Market Tasks](https://arxiv.org/abs/2604.01363) — Mertens, Kuzee, Futuretech, Harris, Lyu, Li, Rosenfeld, Anto, Fleming, Thompson (2026)
+  > *We propose that AI automation is a continuum between: (i) crashing waves where AI capabilities surge abruptly over small sets of tasks, and (ii) rising tides where the increase in AI capabilities is...*
+- Forecasting the Economic Effects of AI * — Karger, Kuusela, Abaluck, Bryan, Halperin, Jones, Murphy, Trammell, Reynolds, Mayland, Viswanathan, Mittal, Ceppas de Castro, Rosenberg, Tetlock, Reddy, Holton, Schmidt (2026)
+  > *We elicit forecasts of how AI will affect the U.S.*
+- [Mapping AI into Production: A Field Experiment on Firm Performance](https://doi.org/10.2139/SSRN.6513481) — Kim, Kim, Koning (2026)
+  > *<p>AI can deliver productivity gains on individual tasks, yet evidence on whether these gains aggregate to firm performance remains limited.*
+- [Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193) — Zhang, Bai, Zheng, Jaitly, Collobert, Zhang (2026)
+  > *Can a large language model (LLM) improve at code generation using only its own raw outputs, without a verifier, a teacher model, or reinforcement learning? We answer in the affirmative with simple...*
 - [AI Must Embrace Specialization via Superhuman Adaptable Intelligence](https://arxiv.org/abs/2602.23643v1) — Goldfeder, Wyder, Lecun, Shwartz-Ziv
   > *Everyone from AI executives and researchers to doomsayers, politicians, and activists is talking about Artificial General Intelligence (AGI).*
 
@@ -1117,11 +1125,7 @@ multi-label classification due to its complex label hierarchy.*
 - [Search Filters for Finding Prognostic and Diagnostic Prediction Studies in Medline to Enhance Systematic Reviews](https://doi.org/10.1371/journal.pone.0032844) — Geersing, Bouwmeester, Zuithoff, Spijker, Leeflang, Moons (2012)
 - [Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD): Explanation and Elaboration](https://doi.org/10.7326/M14-0698) — Moons, Altman, Reitsma, Ioannidis, Macaskill, Steyerberg, Vickers, Ransohoff, Collins (2015)
 - [Searching for Clinical Prediction Rules in MEDLINE](https://doi.org/10.1136/jamia.2001.0080391) — Ingui, Rogers (2001)
-- [An Automated Model to Identify Heart Failure Patients at Risk for 30-Day Readmission or Death Using Electronic Medical Record Data](https://doi.org/10.1097/MLR.0b013e3181ef60d9) — Amarasingham, Moore, Tabak, Drazner, Clark, Zhang, Reed, Swanson, Ma, Halm (2010)
-- [Cardiovascular Disease Risk Assessment: Insights from Framingham](https://doi.org/10.1016/j.gheart.2013.01.001) — D'Agostino, Pencina, Massaro, Coady (2013)
-- [Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis Or Diagnosis (TRIPOD): the TRIPOD statement](https://doi.org/10.1016/j.jclinepi.2014.11.010) — Collins, Reitsma, Altman, Moons (2015)
-- [A comparison of phenotype definitions for diabetes mellitus](https://doi.org/10.1136/amiajnl-2013-001952) — Richesson, Rusincovitch, Wixted, Batch, Feinglos, Miranda, Hammond, Califf, Spratt (2013)
 
 ---
 
-*Last synced: 2026-04-06*
+*Last synced: 2026-04-07*

@@ -17,20 +17,20 @@
   <line x1="200" y1="200" x2="136.36038969321072" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="110.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="136.36038969321072" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
-  <polygon points="200.0,110.0 223.20974022953493,176.7902597704651 226.47058823529412,200.0 216.4714285499925,216.4714285499925 200.0,222.76470588235293 183.90292209887096,216.09707790112907 177.76470588235293,200.0 184.65162339659787,184.65162339659787" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
+  <polygon points="200.0,110.0 222.68890454415967,177.31109545584036 226.34782608695653,200.0 216.41717483276594,216.41717483276594 200.0,222.69565217391303 184.3206757215157,215.67932427848433 177.82608695652175,200.0 184.6896009986565,184.6896009986565" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
   <circle cx="200.0" cy="110.0" r="4" fill="#40c463"/>
-  <circle cx="223.20974022953493" cy="176.7902597704651" r="4" fill="#40c463"/>
-  <circle cx="226.47058823529412" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="216.4714285499925" cy="216.4714285499925" r="4" fill="#40c463"/>
-  <circle cx="200.0" cy="222.76470588235293" r="4" fill="#40c463"/>
-  <circle cx="183.90292209887096" cy="216.09707790112907" r="4" fill="#40c463"/>
-  <circle cx="177.76470588235293" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="184.65162339659787" cy="184.65162339659787" r="4" fill="#40c463"/>
+  <circle cx="222.68890454415967" cy="177.31109545584036" r="4" fill="#40c463"/>
+  <circle cx="226.34782608695653" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="216.41717483276594" cy="216.41717483276594" r="4" fill="#40c463"/>
+  <circle cx="200.0" cy="222.69565217391303" r="4" fill="#40c463"/>
+  <circle cx="184.3206757215157" cy="215.67932427848433" r="4" fill="#40c463"/>
+  <circle cx="177.82608695652175" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="184.6896009986565" cy="184.6896009986565" r="4" fill="#40c463"/>
   <text x="200.0" y="60.0" text-anchor="middle" class="label">arXiv</text>
-  <text x="200.0" y="75.0" text-anchor="middle" class="value">(136)</text>
+  <text x="200.0" y="75.0" text-anchor="middle" class="value">(138)</text>
   <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">Journal of</text>
   <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="label">the...</text>
-  <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(28)</text>
+  <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(27)</text>
   <text x="325.0" y="200.0" text-anchor="start" class="label">Journal of</text>
   <text x="325.0" y="215.0" text-anchor="start" class="label">Biomedica...</text>
   <text x="325.0" y="230.0" text-anchor="start" class="value">(16)</text>
@@ -40,11 +40,11 @@
   <text x="200.0" y="330.0" text-anchor="middle" class="label">BMC Medical</text>
   <text x="200.0" y="345.0" text-anchor="middle" class="label">Informatic...</text>
   <text x="200.0" y="360.0" text-anchor="middle" class="value">(9)</text>
-  <text x="111.61165235168157" y="288.3883476483185" text-anchor="end" class="label">Medical Care</text>
-  <text x="111.61165235168157" y="303.3883476483185" text-anchor="end" class="value">(9)</text>
-  <text x="75.0" y="200.00000000000003" text-anchor="end" class="label">BMC</text>
-  <text x="75.0" y="215.00000000000003" text-anchor="end" class="label">Bioinformatics</text>
-  <text x="75.0" y="230.00000000000003" text-anchor="end" class="value">(8)</text>
+  <text x="111.61165235168157" y="288.3883476483185" text-anchor="end" class="label">BMC</text>
+  <text x="111.61165235168157" y="303.3883476483185" text-anchor="end" class="label">Bioinformatics</text>
+  <text x="111.61165235168157" y="318.3883476483185" text-anchor="end" class="value">(8)</text>
+  <text x="75.0" y="200.00000000000003" text-anchor="end" class="label">Medical Care</text>
+  <text x="75.0" y="215.00000000000003" text-anchor="end" class="value">(8)</text>
   <text x="111.61165235168154" y="111.61165235168157" text-anchor="end" class="label">BMJ</text>
   <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="value">(7)</text>
 </svg>
