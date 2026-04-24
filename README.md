@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-41 papers read in the last year
+42 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 
 ## April 2026
 
+- [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://doi.org/10.1038/s41586-025-09937-5) — Betley, Tan, Warncke, Sztyber-Betley, Bao, Soto, Labenz, Evans (2026)
+  > *We present a surprising result regarding LLMs and alignment.*
 - [Meta-Harness: End-to-End Optimization of Model Harnesses TerminalBench-2 Harness Performance](https://arxiv.org/abs/2603.28052v1) — Lee Stanford Roshen Nair Stanford Qizheng Zhang Stanford Kangwook Lee, Khattab, Finn Stanford
   > *Project page w/ interactive demo: https://yoonholee.com/meta-harness/ Optimized harness: https://github.com/stanford-iris-lab/meta-harness-tbench2-artifact Human-written Model-optimized (ours) Figure...*
 - [Crashing Waves vs. Rising Tides: Preliminary Findings on AI Automation from Thousands of Worker Evaluations of Labor Market Tasks](https://arxiv.org/abs/2604.01363) — Mertens, Kuzee, Futuretech, Harris, Lyu, Li, Rosenfeld, Anto, Fleming, Thompson (2026)
@@ -1125,8 +1127,7 @@ multi-label classification due to its complex label hierarchy.*
 - [Pulse pressure and stroke risk: development and validation of a new stroke risk model](https://doi.org/10.1185/03007995.2014.971357) — Ayyagari, Vekeman, Lefebvre, Ong, Faust, Trahey, Machnicki, Duh (2014)
 - [Development of a New Risk Score for Hospital-Associated Venous Thromboembolism in Noncritically Ill Children: Findings from a Large Single-Institutional Case-Control Study](https://doi.org/10.1016/j.jpeds.2014.05.053) — Atchison, Arlikar, Amankwah, Ayala, Barrett, Branchford, Streiff, Takemoto, Goldenberg (2014)
 - [Search Filters for Finding Prognostic and Diagnostic Prediction Studies in Medline to Enhance Systematic Reviews](https://doi.org/10.1371/journal.pone.0032844) — Geersing, Bouwmeester, Zuithoff, Spijker, Leeflang, Moons (2012)
-- [Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD): Explanation and Elaboration](https://doi.org/10.7326/M14-0698) — Moons, Altman, Reitsma, Ioannidis, Macaskill, Steyerberg, Vickers, Ransohoff, Collins (2015)
 
 ---
 
-*Last synced: 2026-04-23*
+*Last synced: 2026-04-24*
