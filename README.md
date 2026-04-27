@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-42 papers read in the last year
+43 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 
 ## April 2026
 
+- [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://doi.org/10.1038/s41586-025-09937-5) — Betley, Tan, Warncke, Sztyber-Betley, Bao, Soto, Labenz, Evans (2026)
+  > *We present a surprising result regarding LLMs and alignment.*
 - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://doi.org/10.1038/s41586-025-09937-5) — Betley, Tan, Warncke, Sztyber-Betley, Bao, Soto, Labenz, Evans (2026)
   > *We present a surprising result regarding LLMs and alignment.*
 - [Meta-Harness: End-to-End Optimization of Model Harnesses TerminalBench-2 Harness Performance](https://arxiv.org/abs/2603.28052v1) — Lee Stanford Roshen Nair Stanford Qizheng Zhang Stanford Kangwook Lee, Khattab, Finn Stanford
@@ -1126,8 +1128,7 @@ multi-label classification due to its complex label hierarchy.*
 - [Predicting out of intensive care unit cardiopulmonary arrest or death using electronic medical record data](https://doi.org/10.1186/1472-6947-13-28) — Alvarez, Clark, Zhang, Halm, Shannon, Girod, Cooper, Amarasingham (2013)
 - [Pulse pressure and stroke risk: development and validation of a new stroke risk model](https://doi.org/10.1185/03007995.2014.971357) — Ayyagari, Vekeman, Lefebvre, Ong, Faust, Trahey, Machnicki, Duh (2014)
 - [Development of a New Risk Score for Hospital-Associated Venous Thromboembolism in Noncritically Ill Children: Findings from a Large Single-Institutional Case-Control Study](https://doi.org/10.1016/j.jpeds.2014.05.053) — Atchison, Arlikar, Amankwah, Ayala, Barrett, Branchford, Streiff, Takemoto, Goldenberg (2014)
-- [Search Filters for Finding Prognostic and Diagnostic Prediction Studies in Medline to Enhance Systematic Reviews](https://doi.org/10.1371/journal.pone.0032844) — Geersing, Bouwmeester, Zuithoff, Spijker, Leeflang, Moons (2012)
 
 ---
 
-*Last synced: 2026-04-26*
+*Last synced: 2026-04-27*
