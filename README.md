@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-43 papers read in the last year
+42 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -1132,4 +1132,4 @@ multi-label classification due to its complex label hierarchy.*
 
 ---
 
-*Last synced: 2026-05-16*
+*Last synced: 2026-05-17*
