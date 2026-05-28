@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-42 papers read in the last year
+43 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -13,6 +13,11 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 ![Journals](assets/journals.svg)
 
 <a id="2026"></a>
+
+## May 2026
+
+- [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](https://arxiv.org/abs/2510.10114) — Zhuang, Chen, Xiao, Zhou, Zhang, Chen, Zhang, Huang (2025)
+  > *Retrieval-Augmented Generation (RAG) is widely used to mitigate hallucinations of Large Language Models (LLMs) by leveraging external knowledge.*
 
 ## April 2026
 
@@ -1128,8 +1133,7 @@ multi-label classification due to its complex label hierarchy.*
 - [Choosing a model to predict hospital admission: an observational study of new variants of predictive models for case finding](https://doi.org/10.1136/bmjopen-2013-003352) — Billings, Georghiou, Blunt, Bardsley (2013)
 - [A Clinical Prediction Model to Estimate Risk for 30-Day Adverse Events in Emergency Department Patients With Symptomatic Atrial Fibrillation](https://doi.org/10.1016/j.annemergmed.2010.05.031) — Barrett, Martin, Storrow, Jenkins, Harrell, Russ, Roden, Darbar (2011)
 - [Predicting out of intensive care unit cardiopulmonary arrest or death using electronic medical record data](https://doi.org/10.1186/1472-6947-13-28) — Alvarez, Clark, Zhang, Halm, Shannon, Girod, Cooper, Amarasingham (2013)
-- [Pulse pressure and stroke risk: development and validation of a new stroke risk model](https://doi.org/10.1185/03007995.2014.971357) — Ayyagari, Vekeman, Lefebvre, Ong, Faust, Trahey, Machnicki, Duh (2014)
 
 ---
 
-*Last synced: 2026-05-25*
+*Last synced: 2026-05-28*
