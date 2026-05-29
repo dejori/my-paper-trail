@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-43 papers read in the last year
+44 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 
 ## May 2026
 
+- [LINEARRAG: LINEAR GRAPH RETRIEVAL AUG-MENTED GENERATION ON LARGE-SCALE CORPORA](https://arxiv.org/abs/2510.10114v4) — Zhuang, Chen, Xiao, Zhou, Zhang, Chen, Zhang, Huang
+  > *Retrieval-Augmented Generation (RAG) is widely used to mitigate hallucinations of Large Language Models (LLMs) by leveraging external knowledge.*
 - [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](https://arxiv.org/abs/2510.10114) — Zhuang, Chen, Xiao, Zhou, Zhang, Chen, Zhang, Huang (2025)
   > *Retrieval-Augmented Generation (RAG) is widely used to mitigate hallucinations of Large Language Models (LLMs) by leveraging external knowledge.*
 
@@ -1132,8 +1134,7 @@ multi-label classification due to its complex label hierarchy.*
 - [Predicting length of stay from an electronic patient record system: a primary total knee replacement example](https://doi.org/10.1186/1472-6947-14-26) — Carter, Potts (2014)
 - [Choosing a model to predict hospital admission: an observational study of new variants of predictive models for case finding](https://doi.org/10.1136/bmjopen-2013-003352) — Billings, Georghiou, Blunt, Bardsley (2013)
 - [A Clinical Prediction Model to Estimate Risk for 30-Day Adverse Events in Emergency Department Patients With Symptomatic Atrial Fibrillation](https://doi.org/10.1016/j.annemergmed.2010.05.031) — Barrett, Martin, Storrow, Jenkins, Harrell, Russ, Roden, Darbar (2011)
-- [Predicting out of intensive care unit cardiopulmonary arrest or death using electronic medical record data](https://doi.org/10.1186/1472-6947-13-28) — Alvarez, Clark, Zhang, Halm, Shannon, Girod, Cooper, Amarasingham (2013)
 
 ---
 
-*Last synced: 2026-05-28*
+*Last synced: 2026-05-29*
