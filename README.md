@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library.
 
-44 papers read in the last year
+45 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -13,6 +13,11 @@ Papers I'm reading, synced from my [Mendeley](https://www.mendeley.com/) library
 ![Journals](assets/journals.svg)
 
 <a id="2026"></a>
+
+## June 2026
+
+- [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](https://arxiv.org/abs/2509.02594v1) — Ravichandran, Kumar, Corga, Silva, Romano, Berkels, Van Der Heijden, Fail, Gnanapragasam (2026)
+  > *Evaluating large language models (LLMs) on their ability to generate high-quality, accurate, situationally aware answers to clinical questions requires going beyond conventional benchmarks to assess...*
 
 ## May 2026
 
@@ -1133,8 +1138,7 @@ multi-label classification due to its complex label hierarchy.*
 - [Accurately Predicting Bipolar Disorder Mood Outcomes](https://doi.org/10.1097/MLR.0b013e3182422aec) — Busch, Neelon, Zelevinsky, He, Normand (2012)
 - [Predicting length of stay from an electronic patient record system: a primary total knee replacement example](https://doi.org/10.1186/1472-6947-14-26) — Carter, Potts (2014)
 - [Choosing a model to predict hospital admission: an observational study of new variants of predictive models for case finding](https://doi.org/10.1136/bmjopen-2013-003352) — Billings, Georghiou, Blunt, Bardsley (2013)
-- [A Clinical Prediction Model to Estimate Risk for 30-Day Adverse Events in Emergency Department Patients With Symptomatic Atrial Fibrillation](https://doi.org/10.1016/j.annemergmed.2010.05.031) — Barrett, Martin, Storrow, Jenkins, Harrell, Russ, Roden, Darbar (2011)
 
 ---
 
-*Last synced: 2026-06-03*
+*Last synced: 2026-06-04*
