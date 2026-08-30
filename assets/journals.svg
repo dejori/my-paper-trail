@@ -17,32 +17,33 @@
   <line x1="200" y1="200" x2="136.36038969321072" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="110.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="136.36038969321072" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
-  <polygon points="200.0,110.0 217.9946484315749,182.0053515684251 220.48275862068965,200.0 214.48349751809687,214.48349751809687 200.0,219.24137931034483 186.39429021027263,213.60570978972737 180.75862068965517,200.0 186.39429021027263,186.39429021027263" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
+  <polygon points="200.0,110.0 217.90538188292714,182.09461811707286 220.4406779661017,200.0 213.5908320316194,213.5908320316194 200.0,219.22033898305085 186.4091679683806,213.5908320316194 180.77966101694915,200.0 186.4091679683806,186.4091679683806" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
   <circle cx="200.0" cy="110.0" r="4" fill="#40c463"/>
-  <circle cx="217.9946484315749" cy="182.0053515684251" r="4" fill="#40c463"/>
-  <circle cx="220.48275862068965" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="214.48349751809687" cy="214.48349751809687" r="4" fill="#40c463"/>
-  <circle cx="200.0" cy="219.24137931034483" r="4" fill="#40c463"/>
-  <circle cx="186.39429021027263" cy="213.60570978972737" r="4" fill="#40c463"/>
-  <circle cx="180.75862068965517" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="186.39429021027263" cy="186.39429021027263" r="4" fill="#40c463"/>
+  <circle cx="217.90538188292714" cy="182.09461811707286" r="4" fill="#40c463"/>
+  <circle cx="220.4406779661017" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="213.5908320316194" cy="213.5908320316194" r="4" fill="#40c463"/>
+  <circle cx="200.0" cy="219.22033898305085" r="4" fill="#40c463"/>
+  <circle cx="186.4091679683806" cy="213.5908320316194" r="4" fill="#40c463"/>
+  <circle cx="180.77966101694915" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="186.4091679683806" cy="186.4091679683806" r="4" fill="#40c463"/>
   <text x="200.0" y="60.0" text-anchor="middle" class="label">arXiv</text>
-  <text x="200.0" y="75.0" text-anchor="middle" class="value">(58)</text>
+  <text x="200.0" y="75.0" text-anchor="middle" class="value">(59)</text>
   <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">NEJM AI</text>
   <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="value">(6)</text>
   <text x="325.0" y="200.0" text-anchor="start" class="label">JAMIA Open</text>
   <text x="325.0" y="215.0" text-anchor="start" class="value">(2)</text>
-  <text x="288.3883476483185" y="288.3883476483184" text-anchor="start" class="label">Nature</text>
-  <text x="288.3883476483185" y="303.3883476483184" text-anchor="start" class="value">(2)</text>
-  <text x="200.0" y="330.0" text-anchor="middle" class="label">12th</text>
+  <text x="288.3883476483185" y="288.3883476483184" text-anchor="start" class="label">12th</text>
+  <text x="288.3883476483185" y="303.3883476483184" text-anchor="start" class="label">Internati...</text>
+  <text x="288.3883476483185" y="318.3883476483184" text-anchor="start" class="value">(1)</text>
+  <text x="200.0" y="330.0" text-anchor="middle" class="label">4th ACM</text>
   <text x="200.0" y="345.0" text-anchor="middle" class="label">Internati...</text>
   <text x="200.0" y="360.0" text-anchor="middle" class="value">(1)</text>
-  <text x="111.61165235168157" y="288.3883476483185" text-anchor="end" class="label">4th ACM</text>
-  <text x="111.61165235168157" y="303.3883476483185" text-anchor="end" class="label">Internati...</text>
+  <text x="111.61165235168157" y="288.3883476483185" text-anchor="end" class="label">Bioengineering</text>
+  <text x="111.61165235168157" y="303.3883476483185" text-anchor="end" class="label">2024, V...</text>
   <text x="111.61165235168157" y="318.3883476483185" text-anchor="end" class="value">(1)</text>
-  <text x="75.0" y="200.00000000000003" text-anchor="end" class="label">Bioengineering</text>
-  <text x="75.0" y="215.00000000000003" text-anchor="end" class="label">2024, V...</text>
-  <text x="75.0" y="230.00000000000003" text-anchor="end" class="value">(1)</text>
-  <text x="111.61165235168154" y="111.61165235168157" text-anchor="end" class="label">Cureus</text>
-  <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="value">(1)</text>
+  <text x="75.0" y="200.00000000000003" text-anchor="end" class="label">Cureus</text>
+  <text x="75.0" y="215.00000000000003" text-anchor="end" class="value">(1)</text>
+  <text x="111.61165235168154" y="111.61165235168157" text-anchor="end" class="label">Daniel</text>
+  <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="label">Alexander...</text>
+  <text x="111.61165235168154" y="141.61165235168158" text-anchor="end" class="value">(1)</text>
 </svg>

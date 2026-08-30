@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-63 papers read in the last year
+64 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,10 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## August 2026
 
+- [From Model Scaling to System Scaling: Scaling the Harness in Agentic AI](http://arxiv.org/abs/2605.26112) — Gu (2026)
+  > *This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation...*
+- Double Blind Evals: Resolving the Dual Confidentiality Dilemma in AI Safety Auditing — Trask, Messing, Pahwa, Maham, Kolga, Frantz, Tash, Thomas, McGregor, Balston, Paskov, Brundage, Vij, Hillenbrand, Karargyris, Acosta, Fenster, Eilish, Elasmar, Khan, Gabriel, Werneck, Strahm, McDonough, Falcon, Lum, Isaac
+  > *AI safety evaluations often involve sensitive prompts and proprietary models.*
 - [AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces](https://arxiv.org/abs/2608.23041) — Park, Kim, Tan, Zhang, Han, Gao, Park, Yao, Fu, Nallipogu, Lin, Rajmohan, Zhang (2026)
   > *LLM agents remain unreliable on long-horizon tasks, where small local failures can compound over extended interactions and lead to overall task failure.*
 - [DiffusionGemma Technical Report TEXT DIFFUSION MODEL DiffusionGemma AR MODEL Supervised Finetuning (SFT) STEP 2 Sampler Distillation & Reinforcement Learning (SD⋅RL)](https://arxiv.org/abs/2608.00146v1) — Team, DeepMind (2026)
@@ -81,8 +85,6 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 - [Almanac — Retrieval-Augmented Language Models for Clinical Medicine](https://ai.nejm.org/doi/full/10.1056/AIoa2300068) — Zakka, Shad, Chaurasia, Dalal, Kim, Moor, Fong, Phillips, Alexander, Ashley, Boyd, Boyd, Hirsch, Langlotz, Lee, Melia, Nelson, Sallam, Tullis, Vogelsong, Cunningham, Hiesinger (2024)
   > *Large-language models have recently demonstrated impressive zero-shot capabilities in a variety of natural language tasks such as summarization, dialogue generation, and question-answering.*
-- [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](http://arxiv.org/abs/2502.17424) — Betley, Tan, Warncke, Sztyber-Betley, Bao, Soto, Labenz, Evans (2026)
-  > *We present a surprising result regarding LLMs and alignment.*
 - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](http://arxiv.org/abs/2502.17424) — Betley, Tan, Warncke, Sztyber-Betley, Bao, Soto, Labenz, Evans (2026)
   > *We present a surprising result regarding LLMs and alignment.*
 - [Meta-Harness: End-to-End Optimization of Model Harnesses TerminalBench-2 Harness Performance](https://yoonholee.com/meta-harness/) — Lee Stanford Roshen Nair Stanford Qizheng Zhang Stanford Kangwook Lee, Khattab, Finn Stanford
@@ -258,11 +260,6 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 - [CoEdIT: Text Editing by Task-Specific Instruction Tuning](http://arxiv.org/abs/2305.09857) — Raheja, Kumar, Koo, Kang (2023)
   > *We introduce CoEdIT, a state-of-the-art text editing system for writing assistance.*
 
-## October 2024
-
-- [Data preprocessing techniques for classification without discrimination](https://www.researchgate.net/publication/228975972_Data_Pre-Processing_Techniques_for_Classification_without_Discrimination) — Kamiran, Calders (2012)
-  > *Recently, the following Discrimination-Aware Classification Problem was introduced: Suppose we are given training data that exhibit unlawful discrimination; e.*
-
 ---
 
-*Last synced: 2026-08-29*
+*Last synced: 2026-08-30*
