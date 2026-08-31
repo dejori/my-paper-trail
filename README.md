@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-64 papers read in the last year
+65 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## August 2026
 
+- [Prime Agent: A Self-Improving RLM Harness](http://arxiv.org/abs/2608.23552) — Karten, Zhang, Thomas, Müller, Bakouch, Auras, Senghaas, Obeid, Dunas, Hagemann, Jaghouar (2026)
+  > *Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context.*
 - [From Model Scaling to System Scaling: Scaling the Harness in Agentic AI](http://arxiv.org/abs/2605.26112) — Gu (2026)
   > *This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation...*
 - Double Blind Evals: Resolving the Dual Confidentiality Dilemma in AI Safety Auditing — Trask, Messing, Pahwa, Maham, Kolga, Frantz, Tash, Thomas, McGregor, Balston, Paskov, Brundage, Vij, Hillenbrand, Karargyris, Acosta, Fenster, Eilish, Elasmar, Khan, Gabriel, Werneck, Strahm, McDonough, Falcon, Lum, Isaac
@@ -257,9 +259,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 - SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH) — Consoli, Wu, Wang, Zhao, Wang, Rousseau, Hartvigsen, Shen, Xu, Peng, Long, Chen, Ding
   > *Extracting social determinants of health (SDoH) from unstructured medical notes depends heavily on labor-intensive annotations, which are typically task-specific, hampering reusability and limiting...*
-- [CoEdIT: Text Editing by Task-Specific Instruction Tuning](http://arxiv.org/abs/2305.09857) — Raheja, Kumar, Koo, Kang (2023)
-  > *We introduce CoEdIT, a state-of-the-art text editing system for writing assistance.*
 
 ---
 
-*Last synced: 2026-08-30*
+*Last synced: 2026-08-31*
