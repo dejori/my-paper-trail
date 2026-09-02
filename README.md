@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-66 papers read in the last year
+67 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -13,6 +13,11 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 ![Journals](assets/journals.svg)
 
 <a id="2026"></a>
+
+## September 2026
+
+- [Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs](http://arxiv.org/abs/2601.18706) — Yang, Janghorbani, Zhang, Han, Qian, Ressler, Lyng, Batra, Tillman (2026)
+  > *Rubrics are essential for evaluating open-ended LLM responses, especially in safety-critical domains such as healthcare.*
 
 ## August 2026
 
@@ -255,8 +260,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 - [Can the Administrative Loads of Physicians be Alleviated by AI-Facilitated Clinical Documentation?](https://doi.org/10.1007/s11606-024-08870-z) — Bundy, Gerhart, Baek, Connor, Isreal, Dharod, Stephens, Liu, Hetherington, Cleveland (2024)
   > *Background: Champions of AI-facilitated clinical documentation have suggested that the emergent technology may decrease the administrative loads of physicians, thereby reducing cognitive burden and...*
 - [AI-Powered Clinical Documentation and Clinicians’ Electronic Health Record Experience: A Nonrandomized Clinical Trial](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823302) — Liu, Hetherington, Stephens, McWilliams, Dharod, Carroll, Cleveland (2024)
-- [Does AI-Powered Clinical Documentation Enhance Clinician Efficiency? A Longitudinal Study](https://ai.nejm.org/doi/10.1056/AIoa2400659) — Liu, Hetherington, Dharod, Carroll, Bundy, Nguyen, Bundy, Isreal, McWilliams, Cleveland (2024)
 
 ---
 
-*Last synced: 2026-09-01*
+*Last synced: 2026-09-02*
