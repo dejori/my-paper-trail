@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-67 papers read in the last year
+68 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## September 2026
 
+- [Agent Lightning v1.0: Towards Harnessed Agentic RL](http://arxiv.org/abs/2608.17528) — He, Zhang, Zhou, Yang, Kang, Zhang, Qiu, Tsui, Xu, Luo (2026)
+  > *Modern agents operate inside agent harnesses that manage tools, context, and control flow, making the harness a critical part of the agent system.*
 - [Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs](http://arxiv.org/abs/2601.18706) — Yang, Janghorbani, Zhang, Han, Qian, Ressler, Lyng, Batra, Tillman (2026)
   > *Rubrics are essential for evaluating open-ended LLM responses, especially in safety-critical domains such as healthcare.*
 
@@ -259,8 +261,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
   > *This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition of a cover page and metadata, and formatting for readability, but it is not yet the definitive...*
 - [Can the Administrative Loads of Physicians be Alleviated by AI-Facilitated Clinical Documentation?](https://doi.org/10.1007/s11606-024-08870-z) — Bundy, Gerhart, Baek, Connor, Isreal, Dharod, Stephens, Liu, Hetherington, Cleveland (2024)
   > *Background: Champions of AI-facilitated clinical documentation have suggested that the emergent technology may decrease the administrative loads of physicians, thereby reducing cognitive burden and...*
-- [AI-Powered Clinical Documentation and Clinicians’ Electronic Health Record Experience: A Nonrandomized Clinical Trial](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823302) — Liu, Hetherington, Stephens, McWilliams, Dharod, Carroll, Cleveland (2024)
 
 ---
 
-*Last synced: 2026-09-02*
+*Last synced: 2026-09-03*
