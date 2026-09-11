@@ -384,6 +384,7 @@
   <rect x="766" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-09-08: 0 papers</title></rect>
   <rect x="766" y="76" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-09-09: 0 papers</title></rect>
   <rect x="766" y="90" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-09-10: 0 papers</title></rect>
+  <rect x="766" y="104" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-09-11: 1 papers</title></rect>
   <text x="693" y="150" text-anchor="end" class="legend">Less</text>
   <rect x="698" y="140" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
   <rect x="713" y="140" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
@@ -405,18 +406,18 @@
   <line x1="200" y1="200" x2="136.36038969321072" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="110.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="136.36038969321072" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
-  <polygon points="200.0,110.0 253.45727265770302,146.542727342297 261.2,200.0 243.2749350086167,243.2749350086167 200.0,246.8 166.90740264046957,233.09259735953043 153.2,200.0 166.90740264046957,166.90740264046957" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
+  <polygon points="200.0,110.0 246.66904755831214,153.33095244168788 254.0,200.0 238.1837661840736,238.18376618407356 200.0,242.0 170.301515190165,229.698484809835 158.0,200.0 170.301515190165,170.301515190165" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
   <circle cx="200.0" cy="110.0" r="4" fill="#40c463"/>
-  <circle cx="253.45727265770302" cy="146.542727342297" r="4" fill="#40c463"/>
-  <circle cx="261.2" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="243.2749350086167" cy="243.2749350086167" r="4" fill="#40c463"/>
-  <circle cx="200.0" cy="246.8" r="4" fill="#40c463"/>
-  <circle cx="166.90740264046957" cy="233.09259735953043" r="4" fill="#40c463"/>
-  <circle cx="153.2" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="166.90740264046957" cy="166.90740264046957" r="4" fill="#40c463"/>
+  <circle cx="246.66904755831214" cy="153.33095244168788" r="4" fill="#40c463"/>
+  <circle cx="254.0" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="238.1837661840736" cy="238.18376618407356" r="4" fill="#40c463"/>
+  <circle cx="200.0" cy="242.0" r="4" fill="#40c463"/>
+  <circle cx="170.301515190165" cy="229.698484809835" r="4" fill="#40c463"/>
+  <circle cx="158.0" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="170.301515190165" cy="170.301515190165" r="4" fill="#40c463"/>
   <text x="200.0" y="60.0" text-anchor="middle" class="label">Computer</text>
   <text x="200.0" y="75.0" text-anchor="middle" class="label">Science -...</text>
-  <text x="200.0" y="90.0" text-anchor="middle" class="value">(5)</text>
+  <text x="200.0" y="90.0" text-anchor="middle" class="value">(6)</text>
   <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">Large</text>
   <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="label">Language...</text>
   <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(4)</text>
@@ -450,17 +451,17 @@
   <line x1="200" y1="200" x2="136.36038969321072" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="110.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="136.36038969321072" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
-  <polygon points="200.0,110.0 216.8337033714733,183.1662966285267 220.32258064516128,200.0 213.54907832338094,213.54907832338094 200.0,219.16129032258064 186.45092167661906,213.54907832338094 180.83870967741936,200.0 186.45092167661906,186.45092167661906" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
+  <polygon points="200.0,110.0 216.7685322395667,183.2314677604333 220.28571428571428,200.0 213.53604409699963,213.53604409699963 200.0,219.14285714285714 186.46395590300037,213.53604409699963 180.85714285714286,200.0 186.46395590300037,186.46395590300037" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
   <circle cx="200.0" cy="110.0" r="4" fill="#40c463"/>
-  <circle cx="216.8337033714733" cy="183.1662966285267" r="4" fill="#40c463"/>
-  <circle cx="220.32258064516128" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="213.54907832338094" cy="213.54907832338094" r="4" fill="#40c463"/>
-  <circle cx="200.0" cy="219.16129032258064" r="4" fill="#40c463"/>
-  <circle cx="186.45092167661906" cy="213.54907832338094" r="4" fill="#40c463"/>
-  <circle cx="180.83870967741936" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="186.45092167661906" cy="186.45092167661906" r="4" fill="#40c463"/>
+  <circle cx="216.7685322395667" cy="183.2314677604333" r="4" fill="#40c463"/>
+  <circle cx="220.28571428571428" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="213.53604409699963" cy="213.53604409699963" r="4" fill="#40c463"/>
+  <circle cx="200.0" cy="219.14285714285714" r="4" fill="#40c463"/>
+  <circle cx="186.46395590300037" cy="213.53604409699963" r="4" fill="#40c463"/>
+  <circle cx="180.85714285714286" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="186.46395590300037" cy="186.46395590300037" r="4" fill="#40c463"/>
   <text x="200.0" y="60.0" text-anchor="middle" class="label">arXiv</text>
-  <text x="200.0" y="75.0" text-anchor="middle" class="value">(62)</text>
+  <text x="200.0" y="75.0" text-anchor="middle" class="value">(63)</text>
   <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">NEJM AI</text>
   <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="value">(5)</text>
   <text x="325.0" y="200.0" text-anchor="start" class="label">JAMIA Open</text>
@@ -480,5 +481,5 @@
   <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="label">Alexander...</text>
   <text x="111.61165235168154" y="141.61165235168158" text-anchor="end" class="value">(1)</text>
   </g>
-  <text x="880" y="678" text-anchor="end" class="footer">68 papers · <a xlink:href="https://github.com/dejori/my-paper-trail" target="_blank"><tspan class="footer-link">paper-trail</tspan></a></text>
+  <text x="880" y="678" text-anchor="end" class="footer">69 papers · <a xlink:href="https://github.com/dejori/my-paper-trail" target="_blank"><tspan class="footer-link">paper-trail</tspan></a></text>
 </svg>
