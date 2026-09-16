@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-69 papers read in the last year
+70 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## September 2026
 
+- [Zephyr: Direct Distillation of LM Alignment](http://arxiv.org/abs/2310.16944) — Tunstall, Beeching, Lambert, Rajani, Rasul, Belkada, Huang, Werra, Fourrier, Habib, Sarrazin, Sanseviero, Rush, Wolf (2023)
+  > *We aim to produce a smaller language model that is aligned to user intent.*
 - [FrogNano: Training a 4B Coding Agent via Online Task Synthesis](http://arxiv.org/abs/2609.07925) — Kim, Shi, Penaloza, Cui, Castanyer, Hashemzadeh, White, Light, Kim, Pereira, Moldavskaya, Singh, Vera, Peng, Yuan, Côté, Sordoni (2026)
   > *We present FrogNano, a 4B coding agent designed to tackle software engineering (SWE) tasks efficiently and effectively, even under resource-constrained environments.*
 - [Agent Lightning v1.0: Towards Harnessed Agentic RL](http://arxiv.org/abs/2608.17528) — He, Zhang, Zhou, Yang, Kang, Zhang, Qiu, Tsui, Xu, Luo (2026)
@@ -259,9 +261,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
   > *Background*
 - [Automated clinical coding using off-the-shelf large language models](https://github.com/StefanoTrv/simple_icd_10_CM) — Boyle, Kascenas, Lok, Liakata, O'neil
   > *The task of assigning diagnostic ICD codes to patient hospital admissions is typically performed by expert human coders.*
-- [Fine-Tuning LLMs for Specialized Use Cases](https://doi.org/10.1016/j.mcpdig.2024.11.005) — Malins, Friedman, Attia (2024)
-  > *This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition of a cover page and metadata, and formatting for readability, but it is not yet the definitive...*
 
 ---
 
-*Last synced: 2026-09-15*
+*Last synced: 2026-09-16*
