@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-70 papers read in the last year
+71 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## September 2026
 
+- [Learning to Solve Hard Problems in RL for LLMs by Never Giving Up](http://arxiv.org/abs/2609.13443) — Noukhovitch, Ivison, Lambert, Courville (2026)
+  > *We demonstrate that training LLMs with RL does not improve performance equally across a dataset.*
 - [Zephyr: Direct Distillation of LM Alignment](http://arxiv.org/abs/2310.16944) — Tunstall, Beeching, Lambert, Rajani, Rasul, Belkada, Huang, Werra, Fourrier, Habib, Sarrazin, Sanseviero, Rush, Wolf (2023)
   > *We aim to produce a smaller language model that is aligned to user intent.*
 - [FrogNano: Training a 4B Coding Agent via Online Task Synthesis](http://arxiv.org/abs/2609.07925) — Kim, Shi, Penaloza, Cui, Castanyer, Hashemzadeh, White, Light, Kim, Pereira, Moldavskaya, Singh, Vera, Peng, Yuan, Côté, Sordoni (2026)
@@ -259,9 +261,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
   > *Electronic healthcare records are vital for patient safety as they document conditions, plans, and procedures in both free text and medical codes.*
 - [Enhancing Large Language Models for Clinical Decision Support by Incorporating Clinical Practice Guidelines](https://arxiv.org/abs/2401.11120v2) — Oniani, Wu, Visweswaran, Kapoor, Kooragayalu, Polanska, Wang
   > *Background*
-- [Automated clinical coding using off-the-shelf large language models](https://github.com/StefanoTrv/simple_icd_10_CM) — Boyle, Kascenas, Lok, Liakata, O'neil
-  > *The task of assigning diagnostic ICD codes to patient hospital admissions is typically performed by expert human coders.*
 
 ---
 
-*Last synced: 2026-09-18*
+*Last synced: 2026-09-19*
