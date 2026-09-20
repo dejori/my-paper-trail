@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-71 papers read in the last year
+75 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,14 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## September 2026
 
+- [WHALE: A Simple Recipe for Joint Harness-Weight Optimization](http://arxiv.org/abs/2609.00196) — Kim, Lee, Lee, Finn, Lee (2026)
+  > *Agent performance depends jointly on the model parameters and the executable harness code that manages context and control flow.*
+- [Mo' Models, Mo' Problems: How to best select model pools when designing Multi-Agent Systems](http://arxiv.org/abs/2609.17306) — Marjanović, Xu, Laptev, Nalbandyan, Arakelyan, Bakhaturina (2026)
+  > *Multi-agent Systems (MAS) combine multiple model outputs to solve complex reasoning tasks.*
+- [CORAL: An LLM-Native Harness for Production Recommender Systems](http://arxiv.org/abs/2609.02730) — Azhar, Zhou, Jiang, Wang, Sharma, DeSousa, Liu, Guo, Zhang, Fan (2026)
+  > *Production recommender systems shape what billions of people see, and sustaining their performance requires continual optimization: as content, user behavior, and upstream models shift, the choices...*
+- [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](http://arxiv.org/abs/2609.20519) — Liu, Ye, Gao, Cao, Li, Zhuge, Wang, Zhang, Luo, Bian, Zhu, Zhu, Xie, Han (2026)
+  > *As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and...*
 - [Learning to Solve Hard Problems in RL for LLMs by Never Giving Up](http://arxiv.org/abs/2609.13443) — Noukhovitch, Ivison, Lambert, Courville (2026)
   > *We demonstrate that training LLMs with RL does not improve performance equally across a dataset.*
 - [Zephyr: Direct Distillation of LM Alignment](http://arxiv.org/abs/2310.16944) — Tunstall, Beeching, Lambert, Rajani, Rasul, Belkada, Huang, Werra, Fourrier, Habib, Sarrazin, Sanseviero, Rush, Wolf (2023)
@@ -249,19 +257,6 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290v3) — Rafailov, Sharma, Mitchell, Ermon, Manning, Finn
   > *While large-scale unsupervised language models (LMs) learn broad world knowledge and some reasoning skills, achieving precise control of their behavior is difficult due to the completely unsupervised...*
 
-<a id="2024"></a>
-
-## December 2024
-
-- [Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach](https://arxiv.org/abs/2404.15993v4) — Liu, Pan, Li, Chen
-  > *In this paper, we study the problem of uncertainty estimation and calibration for LLMs.*
-- [Uncertainty Quantification for In-Context Learning of Large Language Models](https://github.) — Ling, Zhao, Zhang, Cheng, Liu, Sun, Oishi, Osaki, Matsuda, Ji, Bai, Zhao, Chen
-  > *In-context learning has emerged as a groundbreaking ability of Large Language Models (LLMs) and revolutionized various fields by providing a few task-relevant demonstrations in the prompt.*
-- [An Unsupervised Approach to Achieve Supervised-Level Explainability in Healthcare Records](https://github.com/JoakimEdin/) — Edin, Borgholt, Maistro, Havtorn, Maaløe, Ruotsalo
-  > *Electronic healthcare records are vital for patient safety as they document conditions, plans, and procedures in both free text and medical codes.*
-- [Enhancing Large Language Models for Clinical Decision Support by Incorporating Clinical Practice Guidelines](https://arxiv.org/abs/2401.11120v2) — Oniani, Wu, Visweswaran, Kapoor, Kooragayalu, Polanska, Wang
-  > *Background*
-
 ---
 
-*Last synced: 2026-09-19*
+*Last synced: 2026-09-20*
