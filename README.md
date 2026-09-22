@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-75 papers read in the last year
+76 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## September 2026
 
+- [EvoOntology: A Self-Evolving Ontology Layer for Data Agents](http://arxiv.org/abs/2609.15779) — Chong, Zhang, Fan, Du (2026)
+  > *Data agents aim to fulfill natural-language instructions over heterogeneous data, including tables, files, and databases.*
 - [WHALE: A Simple Recipe for Joint Harness-Weight Optimization](http://arxiv.org/abs/2609.00196) — Kim, Lee, Lee, Finn, Lee (2026)
   > *Agent performance depends jointly on the model parameters and the executable harness code that manages context and control flow.*
 - [Mo' Models, Mo' Problems: How to best select model pools when designing Multi-Agent Systems](http://arxiv.org/abs/2609.17306) — Marjanović, Xu, Laptev, Nalbandyan, Arakelyan, Bakhaturina (2026)
@@ -254,9 +256,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
   > *We provide a distillation scaling law that estimates distilled model performance based on a compute budget and its allocation between the student and teacher.*
 - [FlowMind: Automatic Workflow Generation with LLMs](https://doi.org/10.1145/3604237.3626908) — Zeng, Morgan, Watson, Cho, Rahimi, Reynolds, Balch, Veloso
   > *The rapidly evolving field of Robotic Process Automation (RPA) has made significant strides in automating repetitive processes, yet its effectiveness diminishes in scenarios requiring spontaneous or...*
-- [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290v3) — Rafailov, Sharma, Mitchell, Ermon, Manning, Finn
-  > *While large-scale unsupervised language models (LMs) learn broad world knowledge and some reasoning skills, achieving precise control of their behavior is difficult due to the completely unsupervised...*
 
 ---
 
-*Last synced: 2026-09-21*
+*Last synced: 2026-09-22*
