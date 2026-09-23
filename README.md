@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-76 papers read in the last year
+78 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,10 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## September 2026
 
+- [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](http://arxiv.org/abs/2609.01437) — Wu, Zhang, Shi, Lei, Gu, Zhang, Wang, He, Huang, Song, Zeng, Wang, Liu, Shi, Liu, Yan, Huang, Zhang, Zhang (2026)
+  > *As agents move from research prototypes to deployed tools, their capability increasingly depends on model-external execution infrastructure, commonly termed the agent harness.*
+- [KARL: Knowledge Agents via Reinforcement Learning](http://arxiv.org/abs/2603.05218) — Chang, Drozdov, Toshniwal, Oertell, Trott, Portes, Gupta, Koppol, Baheti, Kulinski, Zhou, Dea, Opsahl-Ong, Favreau-Lessard, Owen, Ortiz, Singhvi, Andrade, Wang, Sreenivasan, Havens, Liu, DeNiro, Sun, Bendersky, Frankle (2026)
+  > *We present a system for training enterprise search agents via reinforcement learning that achieves state-of-the-art performance across a diverse suite of hard-to-verify agentic search tasks.*
 - [EvoOntology: A Self-Evolving Ontology Layer for Data Agents](http://arxiv.org/abs/2609.15779) — Chong, Zhang, Fan, Du (2026)
   > *Data agents aim to fulfill natural-language instructions over heterogeneous data, including tables, files, and databases.*
 - [WHALE: A Simple Recipe for Joint Harness-Weight Optimization](http://arxiv.org/abs/2609.00196) — Kim, Lee, Lee, Finn, Lee (2026)
@@ -252,11 +256,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
   > *Background: Matching patients to clinical trials is a key unsolved challenge in bringing new drugs to market.*
 - [KTO: Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/abs/2402.01306v4) — Ethayarajh, Xu, Muennighoff, Jurafsky, Kiela (2024)
   > *Kahneman & Tversky's prospect theory tells us that humans perceive random variables in a biased but well-defined manner (1992); for example, humans are famously loss-averse.*
-- [Distillation Scaling Laws](https://arxiv.org/abs/2502.08606v1) — Busbridge, Shidani, Weers, Ramapuram, Littwin, Webb
-  > *We provide a distillation scaling law that estimates distilled model performance based on a compute budget and its allocation between the student and teacher.*
-- [FlowMind: Automatic Workflow Generation with LLMs](https://doi.org/10.1145/3604237.3626908) — Zeng, Morgan, Watson, Cho, Rahimi, Reynolds, Balch, Veloso
-  > *The rapidly evolving field of Robotic Process Automation (RPA) has made significant strides in automating repetitive processes, yet its effectiveness diminishes in scenarios requiring spontaneous or...*
 
 ---
 
-*Last synced: 2026-09-22*
+*Last synced: 2026-09-23*
