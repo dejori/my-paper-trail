@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-78 papers read in the last year
+82 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,14 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## September 2026
 
+- [Accelerating Scientific Research with Gemini in the Real-World](http://arxiv.org/abs/2608.26701) — Schmidgall, Zhu, Shaw, Yang, Liévin, Yang, Zhuang, Strother, Bijamov, Sun, Palepu, Chen, Steiner, Shreibati, Weng, Zhao, Hu, Zahn, Garg, Kirby, Gan, Li, Thakkar, Azizi, Racz, Gottweis, Natarajan, Wu, Danino, Rong, Wang, Schillings, Cheng, Le, Tu (2026)
+  > *We present an extension and comprehensive real-world validation of Co-Scientist, a Gemini-based multi-agent system designed to accelerate end-to-end scientific research across hypothesis generation,...*
+- [A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms](http://arxiv.org/abs/2609.04170) — Paglieri, Cross, Genewein, Leibo, Tomasev, Vezhnevets (2026)
+  > *Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work.*
+- [Efficient Benchmarking in Production: A Study of an Evolving LLM Agent](http://arxiv.org/abs/2609.21267) — She, Lin (2026)
+  > *Production LLM agents are evaluated repeatedly as they evolve, but full agent benchmarks are costly to rerun.*
+- [Scaling Discovery through Test-Time Communication](http://arxiv.org/abs/2609.21032) — Park, Kontonis, Garg, Krishnamurthy, Papailiopoulos (2026)
+  > *Science advances not in isolation but through collaboration, yet existing agentic systems capture little of this.*
 - [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](http://arxiv.org/abs/2609.01437) — Wu, Zhang, Shi, Lei, Gu, Zhang, Wang, He, Huang, Song, Zeng, Wang, Liu, Shi, Liu, Yan, Huang, Zhang, Zhang (2026)
   > *As agents move from research prototypes to deployed tools, their capability increasingly depends on model-external execution infrastructure, commonly termed the agent harness.*
 - [KARL: Knowledge Agents via Reinforcement Learning](http://arxiv.org/abs/2603.05218) — Chang, Drozdov, Toshniwal, Oertell, Trott, Portes, Gupta, Koppol, Baheti, Kulinski, Zhou, Dea, Opsahl-Ong, Favreau-Lessard, Owen, Ortiz, Singhvi, Andrade, Wang, Sreenivasan, Havens, Liu, DeNiro, Sun, Bendersky, Frankle (2026)
@@ -248,15 +256,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
   > *LLMs can generate factually incorrect statements even when provided access to reference documents.*
 - [Improving the Robustness of Summarization Models by Detecting and Removing Input Noise](https://arxiv.org/abs/2212.09928v2) — Krishna, Zhao, Ren, Lakshminarayanan, Luo, Saleh, Liu
   > *The evaluation of abstractive summarization models typically uses test data that is identically distributed as training data.*
-- [Do We Still Need Clinical Language Models?](https://github.com/elehman16/clinical) — Lehman, Hernandez, Mahajan, Wulff, Smith, Ziegler, Nadler, Szolovits, Johnson, Ca, Alsentzer, Edu (2023)
-  > *Although recent advances in scaling large language models (LLMs) have resulted in improvements on many NLP tasks, it remains unclear whether these models trained primarily with general web text are...*
-- [DRG-LLaMA : tuning LLaMA model to predict diagnosis-related group for hospitalized patients](https://doi.org/10.1038/s41746-023-00989-3) — Wang, Gao, Dantona, Hull, Sun
-  > *In the U.S.*
-- [Zero-Shot Clinical Trial Patient Matching with LLMs](https://arxiv.org/abs/2402.05125v3) — Wornow, Lozano, Jindal, Mahaffey, Shah
-  > *Background: Matching patients to clinical trials is a key unsolved challenge in bringing new drugs to market.*
-- [KTO: Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/abs/2402.01306v4) — Ethayarajh, Xu, Muennighoff, Jurafsky, Kiela (2024)
-  > *Kahneman & Tversky's prospect theory tells us that humans perceive random variables in a biased but well-defined manner (1992); for example, humans are famously loss-averse.*
 
 ---
 
-*Last synced: 2026-09-25*
+*Last synced: 2026-09-26*
