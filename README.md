@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-81 papers read in the last year
+82 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## September 2026
 
+- [Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity](http://arxiv.org/abs/2609.26891) — Li, Liu, Vukelic, Shen, Lall, Thakur, Zhang, Khattab, Light, Solar-Lezama (2026)
+  > *Modern language-model agents are built around the \textit{agent loop}, where the LLM is placed in an environment exposing a set of tools, and the LLM has full control over the workflow by alternating...*
 - [Accelerating Scientific Research with Gemini in the Real-World](http://arxiv.org/abs/2608.26701) — Schmidgall, Zhu, Shaw, Yang, Liévin, Yang, Zhuang, Strother, Bijamov, Sun, Palepu, Chen, Steiner, Shreibati, Weng, Zhao, Hu, Zahn, Garg, Kirby, Gan, Li, Thakkar, Azizi, Racz, Gottweis, Natarajan, Wu, Danino, Rong, Wang, Schillings, Cheng, Le, Tu (2026)
   > *We present an extension and comprehensive real-world validation of Co-Scientist, a Gemini-based multi-agent system designed to accelerate end-to-end scientific research across hypothesis generation,...*
 - [A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms](http://arxiv.org/abs/2609.04170) — Paglieri, Cross, Genewein, Leibo, Tomasev, Vezhnevets (2026)
@@ -254,9 +256,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
   > *Large language models (LLMs) have attracted significant interest for automated clinical coding.*
 - [GENAUDIT: Fixing Factual Errors in Language Model Outputs with Evidence](https://genaudit.org) — Krishna, Ramprasad, Prakhar Gupta, Wallace, Lipton, Bigham
   > *LLMs can generate factually incorrect statements even when provided access to reference documents.*
-- [Improving the Robustness of Summarization Models by Detecting and Removing Input Noise](https://arxiv.org/abs/2212.09928v2) — Krishna, Zhao, Ren, Lakshminarayanan, Luo, Saleh, Liu
-  > *The evaluation of abstractive summarization models typically uses test data that is identically distributed as training data.*
 
 ---
 
-*Last synced: 2026-09-27*
+*Last synced: 2026-09-28*
