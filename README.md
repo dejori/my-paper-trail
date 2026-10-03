@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-83 papers read in the last year
+84 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -13,6 +13,11 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 ![Journals](assets/journals.svg)
 
 <a id="2026"></a>
+
+## October 2026
+
+- [Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty](http://arxiv.org/abs/2507.16806) — Damani, Puri, Slocum, Shenfeld, Choshen, Kim, Andreas (2026)
+  > *When language models (LMs) are trained via reinforcement learning (RL) to generate natural language "reasoning chains", their performance improves on a variety of difficult question answering tasks.*
 
 ## September 2026
 
@@ -254,9 +259,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
   > *Large language models (LLMs) have emerged as a widely-used tool for information seeking, but their generated outputs are prone to hallucination.*
 - [Tülu 3: Pushing Frontiers in Open Language Model Post-Training](https://arxiv.org/abs/2411.15124v4) — Brahman, James Miranda, Liu, Dziri, Lyu, Gu, Malik, Graf, Hwang, Yang, Le Bras, Tafjord, Wilhelm, Soldaini, Smith, Wang, Dasigi, Hajishirzi (2025)
   > *Language model post-training is applied to refine behaviors and unlock new skills across a wide range of language models, but open recipes for applying these techniques lag behind proprietary ones.*
-- [Large Language Models Are Poor Medical Coders — Benchmarking of Medical Code Querying](https://ai.nejm.org/doi/full/10.1056/AIdbp2300040) — Soroush, Glicksberg, Zimlichman, Barash, Freeman, Charney, Nadkarni, Klang (2024)
-  > *Large language models (LLMs) have attracted significant interest for automated clinical coding.*
 
 ---
 
-*Last synced: 2026-10-02*
+*Last synced: 2026-10-03*
