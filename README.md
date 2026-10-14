@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-84 papers read in the last year
+85 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## October 2026
 
+- [LongHarness: Advancing Agentic Reasoning over 100M-Token Corpora via Stateful Evidence Management](http://arxiv.org/abs/2610.13075) — Huang, Zhong, He, Zhang, Yu, Kang, Zhou, Fan, Yan, Zhang, Feng (2026)
+  > *Corpus-level long-context reasoning requires agents to acquire and integrate evidence across document collections that exceed their context windows.*
 - [Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty](http://arxiv.org/abs/2507.16806) — Damani, Puri, Slocum, Shenfeld, Choshen, Kim, Andreas (2026)
   > *When language models (LMs) are trained via reinforcement learning (RL) to generate natural language "reasoning chains", their performance improves on a variety of difficult question answering tasks.*
 
@@ -257,9 +259,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
   > *While recent Large Language Models (LLMs) have proven useful in answering user queries, they are prone to hallucination, and their responses often lack credibility due to missing references to...*
 - [Enabling Large Language Models to Generate Text with Citations](https://www.bing.com/new) — Gao, Jiatong, Chen
   > *Large language models (LLMs) have emerged as a widely-used tool for information seeking, but their generated outputs are prone to hallucination.*
-- [Tülu 3: Pushing Frontiers in Open Language Model Post-Training](https://arxiv.org/abs/2411.15124v4) — Brahman, James Miranda, Liu, Dziri, Lyu, Gu, Malik, Graf, Hwang, Yang, Le Bras, Tafjord, Wilhelm, Soldaini, Smith, Wang, Dasigi, Hajishirzi (2025)
-  > *Language model post-training is applied to refine behaviors and unlock new skills across a wide range of language models, but open recipes for applying these techniques lag behind proprietary ones.*
 
 ---
 
-*Last synced: 2026-10-13*
+*Last synced: 2026-10-14*
