@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-85 papers read in the last year
+84 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -262,4 +262,4 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ---
 
-*Last synced: 2026-10-17*
+*Last synced: 2026-10-18*
