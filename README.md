@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-84 papers read in the last year
+89 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,16 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## October 2026
 
+- [Open-World Evaluations for Measuring Frontier AI Capabilities](http://arxiv.org/abs/2605.20520) — Kapoor, Kirgis, Schwartz, Rabanser, Allaire, Bommasani, Coppock, Dubois, Hadfield, Hall, Hooker, Lazar, Newman, Papailiopoulos, Tekofsky, Toner, Ududec, Narayanan (2026)
+  > *Benchmark-based evaluation remains important for tracking frontier AI progress.*
+- [Open-World Evaluations for Measuring Frontier AI Capabilities](http://arxiv.org/abs/2605.20520) — Kapoor, Kirgis, Schwartz, Rabanser, Allaire, Bommasani, Coppock, Dubois, Hadfield, Hall, Hooker, Lazar, Newman, Papailiopoulos, Tekofsky, Toner, Ududec, Narayanan (2026)
+  > *Benchmark-based evaluation remains important for tracking frontier AI progress.*
+- [Towards a Science of AI Agent Reliability](http://arxiv.org/abs/2602.16666) — Rabanser, Kapoor, Kirgis, Liu, Utpala, Narayanan (2026)
+  > *AI agents are increasingly deployed to execute important tasks.*
+- [Harness^2: Recursive Agent Harnessing for an Open World](http://arxiv.org/abs/2610.14224) — Xu, Chen, CuiZhu, Mishra, Ming, Yu, Han, Lee, Pfister (2026)
+  > *LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses.*
+- [ICDAGENT: Empowering Agentic Large Language Models for Explainable Medical Coding](https://aclanthology.org/2026.acl-long.643/) — Yin, Cao, Wang, Chen, Ma (2026)
+  > *The explainable medical coding task aims to automatically assign International Classification of Diseases (ICD) codes to clinical notes while providing explicit justifications for each assignment.*
 - [LongHarness: Advancing Agentic Reasoning over 100M-Token Corpora via Stateful Evidence Management](http://arxiv.org/abs/2610.13075) — Huang, Zhong, He, Zhang, Yu, Kang, Zhou, Fan, Yan, Zhang, Feng (2026)
   > *Corpus-level long-context reasoning requires agents to acquire and integrate evidence across document collections that exceed their context windows.*
 - [Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty](http://arxiv.org/abs/2507.16806) — Damani, Puri, Slocum, Shenfeld, Choshen, Kim, Andreas (2026)
@@ -244,22 +254,6 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 - [Surpassing GPT-4 Medical Coding with a Two-Stage Approach](https://arxiv.org/abs/2311.13735v1) — Yang, Stremmel, Halperin (2023)
   > *Recent advances in large language models (LLMs) show potential for clinical applications, such as clinical decision support and trial recommendations.*
 
-## March 2025
-
-- [WHEN SCALING MEETS LLM FINETUNING: THE EFFECT OF DATA, MODEL AND FINETUNING METHOD](https://arxiv.org/abs/2402.17193v1) — Zhang, Liu, Cherry, Firat, Deepmind, Research
-  > *While large language models (LLMs) often adopt finetuning to unlock their capabilities for downstream applications, our understanding on the inductive biases (especially the scaling properties) of...*
-- [O1 Replication Journey -- Part 3: Inference-time Scaling for Medical Reasoning](http://arxiv.org/abs/2501.06458) — Huang, Geng, Hua, Huang, Zou, Zhang, Liu, Zhang, Jiao Tong University (2025)
-  > *Building upon our previous investigations of O1 replication (Part 1: Journey Learning [Qin et al., 2024] and Part 2: Distillation [Huang et al., 2024]), this work explores the potential of...*
-
-## February 2025
-
-- [Improving Attributed Text Generation of Large Language Models via Preference Learning](https://arxiv.org/abs/2403.18381v1) — Li, Sun, Hu, Liu, Hu, Liu, Zhang
-  > *Large language models have been widely adopted in natural language processing, yet they face the challenge of generating unreliable content.*
-- [Training Language Models to Generate Text with Citations via Fine-grained Rewards](https://github.com/) — Huang, Wu, Hu, Wang
-  > *While recent Large Language Models (LLMs) have proven useful in answering user queries, they are prone to hallucination, and their responses often lack credibility due to missing references to...*
-- [Enabling Large Language Models to Generate Text with Citations](https://www.bing.com/new) — Gao, Jiatong, Chen
-  > *Large language models (LLMs) have emerged as a widely-used tool for information seeking, but their generated outputs are prone to hallucination.*
-
 ---
 
-*Last synced: 2026-10-19*
+*Last synced: 2026-10-20*
