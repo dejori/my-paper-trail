@@ -17,21 +17,21 @@
   <line x1="200" y1="200" x2="136.36038969321072" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="110.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="136.36038969321072" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
-  <polygon points="200.0,110.0 236.06244584051393,163.93755415948607 245.0,200.0 231.81980515339464,231.81980515339464 200.0,230.0 178.78679656440357,221.21320343559643 173.0,200.0 183.02943725152286,183.02943725152286" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
+  <polygon points="200.0,110.0 237.16553241916495,162.83446758083505 243.92000000000002,200.0 231.05612982971317,231.05612982971317 200.0,229.52 181.16267534919038,218.83732465080962 176.24,200.0 183.19914287900764,183.19914287900764" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
   <circle cx="200.0" cy="110.0" r="4" fill="#40c463"/>
-  <circle cx="236.06244584051393" cy="163.93755415948607" r="4" fill="#40c463"/>
-  <circle cx="245.0" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="231.81980515339464" cy="231.81980515339464" r="4" fill="#40c463"/>
-  <circle cx="200.0" cy="230.0" r="4" fill="#40c463"/>
-  <circle cx="178.78679656440357" cy="221.21320343559643" r="4" fill="#40c463"/>
-  <circle cx="173.0" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="183.02943725152286" cy="183.02943725152286" r="4" fill="#40c463"/>
+  <circle cx="237.16553241916495" cy="162.83446758083505" r="4" fill="#40c463"/>
+  <circle cx="243.92000000000002" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="231.05612982971317" cy="231.05612982971317" r="4" fill="#40c463"/>
+  <circle cx="200.0" cy="229.52" r="4" fill="#40c463"/>
+  <circle cx="181.16267534919038" cy="218.83732465080962" r="4" fill="#40c463"/>
+  <circle cx="176.24" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="183.19914287900764" cy="183.19914287900764" r="4" fill="#40c463"/>
   <text x="200.0" y="60.0" text-anchor="middle" class="label">Computer</text>
   <text x="200.0" y="75.0" text-anchor="middle" class="label">Science -...</text>
-  <text x="200.0" y="90.0" text-anchor="middle" class="value">(24)</text>
+  <text x="200.0" y="90.0" text-anchor="middle" class="value">(25)</text>
   <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">Computer</text>
   <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="label">Science -...</text>
-  <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(11)</text>
+  <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(12)</text>
   <text x="325.0" y="200.0" text-anchor="start" class="label">Computer</text>
   <text x="325.0" y="215.0" text-anchor="start" class="label">Science -...</text>
   <text x="325.0" y="230.0" text-anchor="start" class="value">(9)</text>
@@ -42,10 +42,10 @@
   <text x="200.0" y="360.0" text-anchor="middle" class="value">(4)</text>
   <text x="111.61165235168157" y="288.3883476483185" text-anchor="end" class="label">Large</text>
   <text x="111.61165235168157" y="303.3883476483185" text-anchor="end" class="label">Language...</text>
-  <text x="111.61165235168157" y="318.3883476483185" text-anchor="end" class="value">(4)</text>
+  <text x="111.61165235168157" y="318.3883476483185" text-anchor="end" class="value">(3)</text>
   <text x="75.0" y="200.00000000000003" text-anchor="end" class="label">Artificial</text>
   <text x="75.0" y="215.00000000000003" text-anchor="end" class="label">Intelligence</text>
-  <text x="75.0" y="230.00000000000003" text-anchor="end" class="value">(3)</text>
+  <text x="75.0" y="230.00000000000003" text-anchor="end" class="value">(2)</text>
   <text x="111.61165235168154" y="111.61165235168157" text-anchor="end" class="label">Econ.Gn</text>
   <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="value">(2)</text>
 </svg>

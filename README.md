@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-89 papers read in the last year
+92 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,12 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## October 2026
 
+- Who’s Aligned to Whom? How AI Agents Shape Experts’ Research Judgment Calls — Herdag, Joren, Tamkin
+  > *As AI systems become more capable at tasks with verifiable answers, experts’ role in knowledge work is shifting to judgment calls, such as which analytical approach to take, how to interpret...*
+- [Retriever-Free Retrieval: Navigating Documents with Decision Models](http://arxiv.org/abs/2610.35868) — Wan, Jünger, Du, Liu, Krishnan, Weinberger (2026)
+  > *While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces.*
+- [Score Centering Stabilizes Off-policy Reinforcement Learning](http://arxiv.org/abs/2609.20807) — Marek, Ryabinin (2026)
+  > *Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference mismatch (TIM).*
 - [Open-World Evaluations for Measuring Frontier AI Capabilities](http://arxiv.org/abs/2605.20520) — Kapoor, Kirgis, Schwartz, Rabanser, Allaire, Bommasani, Coppock, Dubois, Hadfield, Hall, Hooker, Lazar, Newman, Papailiopoulos, Tekofsky, Toner, Ududec, Narayanan (2026)
   > *Benchmark-based evaluation remains important for tracking frontier AI progress.*
 - [Open-World Evaluations for Measuring Frontier AI Capabilities](http://arxiv.org/abs/2605.20520) — Kapoor, Kirgis, Schwartz, Rabanser, Allaire, Bommasani, Coppock, Dubois, Hadfield, Hall, Hooker, Lazar, Newman, Papailiopoulos, Tekofsky, Toner, Ududec, Narayanan (2026)
@@ -242,18 +248,6 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 - [Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch](http://arxiv.org/abs/2311.03099) — Yu, Yu, Yu, Huang, Li (2024)
   > *In this paper, we unveil that Language Models (LMs) can acquire new capabilities by assimilating parameters from homologous models without retraining or GPUs.*
 
-## May 2025
-
-- [Aloe: A Family of Fine-tuned Open Healthcare LLMs](https://arxiv.org/abs/2405.01886v1) — Kumar Gururajan, Lopez-Cuena, Bayarri-Planas, Tormos, Hinjos, Bernabeu-Perez, Arias-Duart, Martin-Torres, Urcelay-Ganzabal, Gonzalez-Mallo, Alvarez-Napagao, Ayguadé-Parra, Cortés, Garcia-Gasulla
-  > *As the capabilities of Large Language Models (LLMs) in healthcare and medicine continue to advance, there is a growing need for competitive open-source models that can safeguard public interest.*
-- [Transforming appeal decisions: machine learning triage for hospital admission denials](https://dx.doi.org/10.1093/jamiaopen/ooaf016) — Owolabi (2024)
-  > *Objective: To develop and validate a machine learning model that helps physician advisors efficiently identify hospital admission denials likely to be overturned on appeal.*
-
-## April 2025
-
-- [Surpassing GPT-4 Medical Coding with a Two-Stage Approach](https://arxiv.org/abs/2311.13735v1) — Yang, Stremmel, Halperin (2023)
-  > *Recent advances in large language models (LLMs) show potential for clinical applications, such as clinical decision support and trial recommendations.*
-
 ---
 
-*Last synced: 2026-10-30*
+*Last synced: 2026-10-31*
