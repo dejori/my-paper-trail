@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-92 papers read in the last year
+93 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -13,6 +13,10 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 ![Journals](assets/journals.svg)
 
 <a id="2026"></a>
+
+## November 2026
+
+- [harness_final.pdf](https://drive.google.com/file/d/1wZeuP0t4WOA2COMxcrU-Uv34IutM13UR/view?usp=embed_facebook)
 
 ## October 2026
 
@@ -245,9 +249,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 - Expertise Is What We Want — Al-Dajani, Health Keegan Duchicela, Kafadarov, Health Othman Laraki, Lazrak, Health Wendy McKennon, Health Rebecca Miksad, Health Jayodita Sanghvi, Health Alan Ashworth, Mandair, Zack, Kurian Stanford
   > *Clinical decision-making depends on expert reasoning, which is guided by standardized, evidence-based guidelines.*
-- [Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch](http://arxiv.org/abs/2311.03099) — Yu, Yu, Yu, Huang, Li (2024)
-  > *In this paper, we unveil that Language Models (LMs) can acquire new capabilities by assimilating parameters from homologous models without retraining or GPUs.*
 
 ---
 
-*Last synced: 2026-10-31*
+*Last synced: 2026-11-01*
