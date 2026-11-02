@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-93 papers read in the last year
+94 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## November 2026
 
+- [Training Foundation Models with a Single Algorithm](http://arxiv.org/abs/2610.40564) — Song, Zhang, Tajwar, Arora, Schneider, Khashabi, Salakhutdinov, Bagnell, Singh, Zanette (2026)
+  > *Foundation models are typically trained in stages: pretraining, midtraining, supervised fine-tuning (SFT), and reinforcement learning (RL), with changes in both data and learning algorithms.*
 - [harness_final.pdf](https://drive.google.com/file/d/1wZeuP0t4WOA2COMxcrU-Uv34IutM13UR/view?usp=embed_facebook)
 
 ## October 2026
@@ -245,11 +247,6 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 - [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://github.com/TheAgentCompany/experiments) — Xu, Song, Li, Tang, Jain, Bao, Wang, Zhou, Guo, Cao, Yang, Lu, Martin, Su, Melroy Maben, Mehta, Chi, Jang, Xie, Zhou, Neubig
   > *We interact with computers on an everyday basis, be it in everyday life or work, and many aspects of work can be done entirely with access to a computer and the Internet.*
 
-## June 2025
-
-- Expertise Is What We Want — Al-Dajani, Health Keegan Duchicela, Kafadarov, Health Othman Laraki, Lazrak, Health Wendy McKennon, Health Rebecca Miksad, Health Jayodita Sanghvi, Health Alan Ashworth, Mandair, Zack, Kurian Stanford
-  > *Clinical decision-making depends on expert reasoning, which is guided by standardized, evidence-based guidelines.*
-
 ---
 
-*Last synced: 2026-11-01*
+*Last synced: 2026-11-02*
