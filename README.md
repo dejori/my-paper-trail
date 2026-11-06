@@ -249,4 +249,4 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ---
 
-*Last synced: 2026-11-05*
+*Last synced: 2026-11-06*
