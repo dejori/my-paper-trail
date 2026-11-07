@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-94 papers read in the last year
+95 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## November 2026
 
+- [Memorilla: Latent Semantic Memory for LLMs](http://arxiv.org/abs/2610.21375) — Fallahpour, Idehpour, Kothapalli, Mounier, Wu, Pardis, Leskovec (2026)
+  > *Memory enables large language models (LLMs) to use information beyond their parameters, such as past user conversations, long documents, or an agent's earlier actions.*
 - [Training Foundation Models with a Single Algorithm](http://arxiv.org/abs/2610.40564) — Song, Zhang, Tajwar, Arora, Schneider, Khashabi, Salakhutdinov, Bagnell, Singh, Zanette (2026)
   > *Foundation models are typically trained in stages: pretraining, midtraining, supervised fine-tuning (SFT), and reinforcement learning (RL), with changes in both data and learning algorithms.*
 - [harness_final.pdf](https://drive.google.com/file/d/1wZeuP0t4WOA2COMxcrU-Uv34IutM13UR/view?usp=embed_facebook)
@@ -244,9 +246,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
   > *Large language models (LLMs) are often praised for exhibiting near-human performance on a wide range of tasks and valued for their ability to hold a general conversation.*
 - [The wall confronting large language models](https://arxiv.org/abs/2507.19703v2) — Coveney, Succi (2025)
   > *We show that the scaling laws which determine the performance of large language models (LLMs) severely limit their ability to improve the uncertainty of their predictions.*
-- [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://github.com/TheAgentCompany/experiments) — Xu, Song, Li, Tang, Jain, Bao, Wang, Zhou, Guo, Cao, Yang, Lu, Martin, Su, Melroy Maben, Mehta, Chi, Jang, Xie, Zhou, Neubig
-  > *We interact with computers on an everyday basis, be it in everyday life or work, and many aspects of work can be done entirely with access to a computer and the Internet.*
 
 ---
 
-*Last synced: 2026-11-06*
+*Last synced: 2026-11-07*
