@@ -17,24 +17,24 @@
   <line x1="200" y1="200" x2="136.36038969321072" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="110.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="136.36038969321072" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
-  <polygon points="200.0,110.0 240.1419080396671,159.85809196033293 242.92307692307693,200.0 230.3511987616995,230.3511987616995 200.0,229.0769230769231 181.3976523718616,218.6023476281384 176.46153846153845,200.0 183.3557942274551,183.3557942274551" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
+  <polygon points="200.0,110.0 239.12657522565564,160.87342477434436 244.66666666666666,200.0 229.698484809835,229.698484809835 200.0,228.66666666666666 181.61522368914976,218.38477631085024 176.66666666666666,200.0 183.5008417723139,183.5008417723139" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
   <circle cx="200.0" cy="110.0" r="4" fill="#40c463"/>
-  <circle cx="240.1419080396671" cy="159.85809196033293" r="4" fill="#40c463"/>
-  <circle cx="242.92307692307693" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="230.3511987616995" cy="230.3511987616995" r="4" fill="#40c463"/>
-  <circle cx="200.0" cy="229.0769230769231" r="4" fill="#40c463"/>
-  <circle cx="181.3976523718616" cy="218.6023476281384" r="4" fill="#40c463"/>
-  <circle cx="176.46153846153845" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="183.3557942274551" cy="183.3557942274551" r="4" fill="#40c463"/>
+  <circle cx="239.12657522565564" cy="160.87342477434436" r="4" fill="#40c463"/>
+  <circle cx="244.66666666666666" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="229.698484809835" cy="229.698484809835" r="4" fill="#40c463"/>
+  <circle cx="200.0" cy="228.66666666666666" r="4" fill="#40c463"/>
+  <circle cx="181.61522368914976" cy="218.38477631085024" r="4" fill="#40c463"/>
+  <circle cx="176.66666666666666" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="183.5008417723139" cy="183.5008417723139" r="4" fill="#40c463"/>
   <text x="200.0" y="60.0" text-anchor="middle" class="label">Computer</text>
   <text x="200.0" y="75.0" text-anchor="middle" class="label">Science -...</text>
-  <text x="200.0" y="90.0" text-anchor="middle" class="value">(26)</text>
+  <text x="200.0" y="90.0" text-anchor="middle" class="value">(27)</text>
   <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">Computer</text>
   <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="label">Science -...</text>
   <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(14)</text>
   <text x="325.0" y="200.0" text-anchor="start" class="label">Computer</text>
   <text x="325.0" y="215.0" text-anchor="start" class="label">Science -...</text>
-  <text x="325.0" y="230.0" text-anchor="start" class="value">(9)</text>
+  <text x="325.0" y="230.0" text-anchor="start" class="value">(10)</text>
   <text x="288.3883476483185" y="288.3883476483184" text-anchor="start" class="label">Harness</text>
   <text x="288.3883476483185" y="303.3883476483184" text-anchor="start" class="value">(9)</text>
   <text x="200.0" y="330.0" text-anchor="middle" class="label">Computer</text>

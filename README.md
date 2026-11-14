@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-95 papers read in the last year
+96 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## November 2026
 
+- [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](http://arxiv.org/abs/2611.17167) — Liu, Zhu, Wang, Li, Chen, Qiu, Qu, Lu, Xiao, Shen (2026)
+  > *Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score...*
 - [Memorilla: Latent Semantic Memory for LLMs](http://arxiv.org/abs/2610.21375) — Fallahpour, Idehpour, Kothapalli, Mounier, Wu, Pardis, Leskovec (2026)
   > *Memory enables large language models (LLMs) to use information beyond their parameters, such as past user conversations, long documents, or an agent's earlier actions.*
 - [Training Foundation Models with a Single Algorithm](http://arxiv.org/abs/2610.40564) — Song, Zhang, Tajwar, Arora, Schneider, Khashabi, Salakhutdinov, Bagnell, Singh, Zanette (2026)
@@ -244,9 +246,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
   > *Realizing personalized medicine at scale calls for methods that distill insights from longitudinal patient journeys, which can be viewed as a sequence of medical events.*
 - [Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153v1) — Belcak, Heinrich, Diao, Fu, Dong, Muralidharan, Lin, Molchanov (2025)
   > *Large language models (LLMs) are often praised for exhibiting near-human performance on a wide range of tasks and valued for their ability to hold a general conversation.*
-- [The wall confronting large language models](https://arxiv.org/abs/2507.19703v2) — Coveney, Succi (2025)
-  > *We show that the scaling laws which determine the performance of large language models (LLMs) severely limit their ability to improve the uncertainty of their predictions.*
 
 ---
 
-*Last synced: 2026-11-13*
+*Last synced: 2026-11-14*
