@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-96 papers read in the last year
+97 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## November 2026
 
+- [Harness-Zero: Harness Distillation via Agent-as-Harness](http://arxiv.org/abs/2609.24974) — Ye, Lu, Dong, Su, Song (2026)
+  > *Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment.*
 - [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](http://arxiv.org/abs/2611.17167) — Liu, Zhu, Wang, Li, Chen, Qiu, Qu, Lu, Xiao, Shen (2026)
   > *Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score...*
 - [Memorilla: Latent Semantic Memory for LLMs](http://arxiv.org/abs/2610.21375) — Fallahpour, Idehpour, Kothapalli, Mounier, Wu, Pardis, Leskovec (2026)
@@ -244,9 +246,7 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 - [Generative Medical Event Models Improve with Scale](https://cosmos.epic.com) — Waxler, Blazek, White, Sneider, Chung, Nagarathnam, Williams, Voeller, Wong, Swanhorst, Zhang, Usuyama, Wong, Naumann, Poon, Loza, Meeker, Hain, Shah
   > *Realizing personalized medicine at scale calls for methods that distill insights from longitudinal patient journeys, which can be viewed as a sequence of medical events.*
-- [Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153v1) — Belcak, Heinrich, Diao, Fu, Dong, Muralidharan, Lin, Molchanov (2025)
-  > *Large language models (LLMs) are often praised for exhibiting near-human performance on a wide range of tasks and valued for their ability to hold a general conversation.*
 
 ---
 
-*Last synced: 2026-11-15*
+*Last synced: 2026-11-16*
