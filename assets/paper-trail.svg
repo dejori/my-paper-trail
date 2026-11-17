@@ -380,6 +380,7 @@
   <rect x="752" y="118" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-11-14: 1 papers</title></rect>
   <rect x="766" y="34" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><title>2026-11-15: 0 papers</title></rect>
   <rect x="766" y="48" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-11-16: 1 papers</title></rect>
+  <rect x="766" y="62" width="11" height="11" rx="2" ry="2" fill="#9be9a7"><title>2026-11-17: 1 papers</title></rect>
   <text x="693" y="150" text-anchor="end" class="legend">Less</text>
   <rect x="698" y="140" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
   <rect x="713" y="140" width="11" height="11" rx="2" ry="2" fill="#9be9a7"/>
@@ -401,18 +402,18 @@
   <line x1="200" y1="200" x2="136.36038969321072" y2="263.6396103067893" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="110.0" y2="200.0" stroke="#d0d7de" stroke-width="1"/>
   <line x1="200" y1="200" x2="136.36038969321072" y2="136.36038969321072" stroke="#d0d7de" stroke-width="1"/>
-  <polygon points="200.0,110.0 238.1837661840736,161.81623381592644 246.28571428571428,200.0 229.09239328310366,229.09239328310366 200.0,228.28571428571428 181.8172541980602,218.1827458019398 176.85714285714286,200.0 183.63552877825418,183.63552877825418" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
+  <polygon points="200.0,110.0 237.30597845570406,162.69402154429594 245.31034482758622,200.0 228.52810117200897,228.52810117200897 200.0,227.93103448275863 182.0053515684251,217.9946484315749 177.0344827586207,200.0 183.7609270251641,183.7609270251641" fill="#9be9a7" fill-opacity="0.5" stroke="#40c463" stroke-width="2"/>
   <circle cx="200.0" cy="110.0" r="4" fill="#40c463"/>
-  <circle cx="238.1837661840736" cy="161.81623381592644" r="4" fill="#40c463"/>
-  <circle cx="246.28571428571428" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="229.09239328310366" cy="229.09239328310366" r="4" fill="#40c463"/>
-  <circle cx="200.0" cy="228.28571428571428" r="4" fill="#40c463"/>
-  <circle cx="181.8172541980602" cy="218.1827458019398" r="4" fill="#40c463"/>
-  <circle cx="176.85714285714286" cy="200.0" r="4" fill="#40c463"/>
-  <circle cx="183.63552877825418" cy="183.63552877825418" r="4" fill="#40c463"/>
+  <circle cx="237.30597845570406" cy="162.69402154429594" r="4" fill="#40c463"/>
+  <circle cx="245.31034482758622" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="228.52810117200897" cy="228.52810117200897" r="4" fill="#40c463"/>
+  <circle cx="200.0" cy="227.93103448275863" r="4" fill="#40c463"/>
+  <circle cx="182.0053515684251" cy="217.9946484315749" r="4" fill="#40c463"/>
+  <circle cx="177.0344827586207" cy="200.0" r="4" fill="#40c463"/>
+  <circle cx="183.7609270251641" cy="183.7609270251641" r="4" fill="#40c463"/>
   <text x="200.0" y="60.0" text-anchor="middle" class="label">Computer</text>
   <text x="200.0" y="75.0" text-anchor="middle" class="label">Science -...</text>
-  <text x="200.0" y="90.0" text-anchor="middle" class="value">(28)</text>
+  <text x="200.0" y="90.0" text-anchor="middle" class="value">(29)</text>
   <text x="288.3883476483185" y="111.61165235168157" text-anchor="start" class="label">Computer</text>
   <text x="288.3883476483185" y="126.61165235168157" text-anchor="start" class="label">Science -...</text>
   <text x="288.3883476483185" y="141.61165235168158" text-anchor="start" class="value">(14)</text>
@@ -475,5 +476,5 @@
   <text x="111.61165235168154" y="111.61165235168157" text-anchor="end" class="label">JAMIA Open</text>
   <text x="111.61165235168154" y="126.61165235168157" text-anchor="end" class="value">(1)</text>
   </g>
-  <text x="880" y="678" text-anchor="end" class="footer">97 papers · <a xlink:href="https://github.com/dejori/my-paper-trail" target="_blank"><tspan class="footer-link">paper-trail</tspan></a></text>
+  <text x="880" y="678" text-anchor="end" class="footer">98 papers · <a xlink:href="https://github.com/dejori/my-paper-trail" target="_blank"><tspan class="footer-link">paper-trail</tspan></a></text>
 </svg>

@@ -5,7 +5,7 @@
 
 Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
-97 papers read in the last year
+98 papers read in the last year
 
 ![Reading Activity](assets/activity.svg)
 
@@ -16,6 +16,8 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 
 ## November 2026
 
+- [Interpretable weight-space programming builds transparent transformers and brain encoding models](http://arxiv.org/abs/2611.18114) — Mehta, Singh, Xu, Antonello, Flinker, Mesgarani, Bonner, Jojic, Gao (2026)
+  > *Neural networks are powerful predictors, yet their opacity limits their usefulness in science, where the goal is explanation rather than mere prediction.*
 - [Harness-Zero: Harness Distillation via Agent-as-Harness](http://arxiv.org/abs/2609.24974) — Ye, Lu, Dong, Su, Song (2026)
   > *Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment.*
 - [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](http://arxiv.org/abs/2611.17167) — Liu, Zhu, Wang, Li, Chen, Qiu, Qu, Lu, Xiao, Shen (2026)
@@ -242,11 +244,6 @@ Papers I'm reading, synced from my [Zotero](https://www.zotero.org/) library.
 - [Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations](https://doi.org/10.1145/3315508.3329973) — Tillet, Kung, Cox (2019)
   > *The validation and deployment of novel research ideas in the field of Deep Learning is often limited by the availability of efficient compute kernels for certain basic primitives.*
 
-## August 2025
-
-- [Generative Medical Event Models Improve with Scale](https://cosmos.epic.com) — Waxler, Blazek, White, Sneider, Chung, Nagarathnam, Williams, Voeller, Wong, Swanhorst, Zhang, Usuyama, Wong, Naumann, Poon, Loza, Meeker, Hain, Shah
-  > *Realizing personalized medicine at scale calls for methods that distill insights from longitudinal patient journeys, which can be viewed as a sequence of medical events.*
-
 ---
 
-*Last synced: 2026-11-16*
+*Last synced: 2026-11-17*
